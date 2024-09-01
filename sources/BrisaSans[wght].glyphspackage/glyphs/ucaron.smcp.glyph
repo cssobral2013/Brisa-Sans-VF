@@ -1,0 +1,71 @@
+{
+glyphname = ucaron.smcp;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{292, 0}";
+}
+);
+layerId = "BC1C0262-B179-41F2-9022-DD18C3300059";
+shapes = (
+{
+alignment = -1;
+ref = u.smcp;
+},
+{
+alignment = -1;
+pos = (292,20);
+ref = caroncomb;
+}
+);
+width = 586;
+},
+{
+layerId = "022C621B-D9C5-4075-856F-99776A9BB9BC";
+shapes = (
+{
+alignment = -1;
+ref = u.smcp;
+},
+{
+alignment = -1;
+pos = (289,20);
+ref = caroncomb;
+}
+);
+width = 579;
+},
+{
+layerId = "F46EB350-572D-40B6-8F96-70923BCB3D86";
+shapes = (
+{
+alignment = -1;
+ref = u.smcp;
+},
+{
+alignment = -1;
+pos = (284,20);
+ref = caroncomb;
+}
+);
+width = 569;
+},
+{
+layerId = "7900522D-7321-4A46-8482-E4D00C1490A1";
+shapes = (
+{
+alignment = -1;
+ref = u.smcp;
+},
+{
+alignment = -1;
+pos = (282,20);
+ref = caroncomb;
+}
+);
+width = 564;
+}
+);
+}

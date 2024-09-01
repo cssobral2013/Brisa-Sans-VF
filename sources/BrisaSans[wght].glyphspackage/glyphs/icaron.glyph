@@ -1,0 +1,72 @@
+{
+glyphname = icaron;
+layers = (
+{
+anchors = (
+{
+name = hook;
+position = "{140, 457}";
+}
+);
+layerId = "BC1C0262-B179-41F2-9022-DD18C3300059";
+shapes = (
+{
+alignment = -1;
+ref = dotlessi;
+},
+{
+alignment = -1;
+pos = (140,0);
+ref = caroncomb;
+}
+);
+width = 281;
+},
+{
+layerId = "022C621B-D9C5-4075-856F-99776A9BB9BC";
+shapes = (
+{
+alignment = -1;
+ref = dotlessi;
+},
+{
+alignment = -1;
+pos = (134,0);
+ref = caroncomb;
+}
+);
+width = 269;
+},
+{
+layerId = "F46EB350-572D-40B6-8F96-70923BCB3D86";
+shapes = (
+{
+alignment = -1;
+ref = dotlessi;
+},
+{
+alignment = -1;
+pos = (125,0);
+ref = caroncomb;
+}
+);
+width = 251;
+},
+{
+layerId = "7900522D-7321-4A46-8482-E4D00C1490A1";
+shapes = (
+{
+alignment = -1;
+ref = dotlessi;
+},
+{
+alignment = -1;
+pos = (111,0);
+ref = caroncomb;
+}
+);
+width = 222;
+}
+);
+unicode = 464;
+}

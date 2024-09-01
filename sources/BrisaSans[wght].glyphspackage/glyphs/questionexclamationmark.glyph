@@ -1,0 +1,66 @@
+{
+glyphname = questionexclamationmark;
+layers = (
+{
+layerId = "BC1C0262-B179-41F2-9022-DD18C3300059";
+shapes = (
+{
+alignment = -1;
+ref = question;
+},
+{
+alignment = -1;
+pos = (533,0);
+ref = exclam;
+}
+);
+width = 840;
+},
+{
+layerId = "022C621B-D9C5-4075-856F-99776A9BB9BC";
+shapes = (
+{
+alignment = -1;
+ref = question;
+},
+{
+alignment = -1;
+pos = (512,0);
+ref = exclam;
+}
+);
+width = 804;
+},
+{
+layerId = "F46EB350-572D-40B6-8F96-70923BCB3D86";
+shapes = (
+{
+alignment = -1;
+ref = question;
+},
+{
+alignment = -1;
+pos = (480,0);
+ref = exclam;
+}
+);
+width = 750;
+},
+{
+layerId = "7900522D-7321-4A46-8482-E4D00C1490A1";
+shapes = (
+{
+alignment = -1;
+ref = question;
+},
+{
+alignment = -1;
+pos = (483,0);
+ref = exclam;
+}
+);
+width = 711;
+}
+);
+unicode = 8264;
+}

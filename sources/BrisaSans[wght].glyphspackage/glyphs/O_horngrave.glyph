@@ -1,0 +1,76 @@
+{
+glyphname = Ohorngrave;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{379, 0}";
+},
+{
+name = hook;
+position = "{379, 457}";
+}
+);
+layerId = "BC1C0262-B179-41F2-9022-DD18C3300059";
+shapes = (
+{
+alignment = -1;
+ref = Ohorn;
+},
+{
+alignment = -1;
+pos = (379,0);
+ref = gravecomb.cap;
+}
+);
+width = 757;
+},
+{
+layerId = "022C621B-D9C5-4075-856F-99776A9BB9BC";
+shapes = (
+{
+alignment = -1;
+ref = Ohorn;
+},
+{
+alignment = -1;
+pos = (376,0);
+ref = gravecomb.cap;
+}
+);
+width = 752;
+},
+{
+layerId = "F46EB350-572D-40B6-8F96-70923BCB3D86";
+shapes = (
+{
+alignment = -1;
+ref = Ohorn;
+},
+{
+alignment = -1;
+pos = (372,0);
+ref = gravecomb.cap;
+}
+);
+width = 744;
+},
+{
+layerId = "7900522D-7321-4A46-8482-E4D00C1490A1";
+shapes = (
+{
+alignment = -1;
+ref = Ohorn;
+},
+{
+alignment = -1;
+pos = (361,0);
+ref = gravecomb.cap;
+}
+);
+width = 722;
+}
+);
+unicode = 7900;
+}

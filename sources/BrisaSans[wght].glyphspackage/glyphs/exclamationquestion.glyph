@@ -1,0 +1,66 @@
+{
+glyphname = exclamationquestion;
+layers = (
+{
+layerId = "BC1C0262-B179-41F2-9022-DD18C3300059";
+shapes = (
+{
+alignment = -1;
+ref = exclam;
+},
+{
+alignment = -1;
+pos = (280,0);
+ref = question;
+}
+);
+width = 816;
+},
+{
+layerId = "022C621B-D9C5-4075-856F-99776A9BB9BC";
+shapes = (
+{
+alignment = -1;
+ref = exclam;
+},
+{
+alignment = -1;
+pos = (265,0);
+ref = question;
+}
+);
+width = 789;
+},
+{
+layerId = "F46EB350-572D-40B6-8F96-70923BCB3D86";
+shapes = (
+{
+alignment = -1;
+ref = exclam;
+},
+{
+alignment = -1;
+pos = (242,0);
+ref = question;
+}
+);
+width = 749;
+},
+{
+layerId = "7900522D-7321-4A46-8482-E4D00C1490A1";
+shapes = (
+{
+alignment = -1;
+ref = exclam;
+},
+{
+alignment = -1;
+pos = (233,0);
+ref = question;
+}
+);
+width = 715;
+}
+);
+unicode = 8265;
+}

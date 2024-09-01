@@ -1,0 +1,72 @@
+{
+glyphname = scommaaccent.smcp;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{257, 497}";
+}
+);
+layerId = "BC1C0262-B179-41F2-9022-DD18C3300059";
+shapes = (
+{
+alignment = -1;
+ref = s.smcp;
+},
+{
+alignment = -1;
+pos = (255,0);
+ref = commaaccentcomb;
+}
+);
+width = 500;
+},
+{
+layerId = "022C621B-D9C5-4075-856F-99776A9BB9BC";
+shapes = (
+{
+alignment = -1;
+ref = s.smcp;
+},
+{
+alignment = -1;
+pos = (254,0);
+ref = commaaccentcomb;
+}
+);
+width = 495;
+},
+{
+layerId = "F46EB350-572D-40B6-8F96-70923BCB3D86";
+shapes = (
+{
+alignment = -1;
+ref = s.smcp;
+},
+{
+alignment = -1;
+pos = (253,0);
+ref = commaaccentcomb;
+}
+);
+width = 488;
+},
+{
+layerId = "7900522D-7321-4A46-8482-E4D00C1490A1";
+shapes = (
+{
+alignment = -1;
+ref = s.smcp;
+},
+{
+alignment = -1;
+pos = (245,0);
+ref = commaaccentcomb;
+}
+);
+width = 470;
+}
+);
+unicode = 63105;
+}

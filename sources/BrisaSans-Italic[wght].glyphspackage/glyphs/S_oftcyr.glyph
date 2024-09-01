@@ -2,7 +2,7 @@
 glyphname = Softcyr;
 layers = (
 {
-layerId = "3664570B-2F06-474D-8410-56569ABB35BC";
+layerId = "4183FC63-456F-477E-9B65-436D843A5C2D";
 shapes = (
 {
 closed = 1;
@@ -44,7 +44,7 @@ nodes = (
 width = 599;
 },
 {
-layerId = "452821E5-9DA0-4F55-A4C0-CD58A2FD2761";
+layerId = "E9E527C0-D75F-4862-A19F-02900F5EAE88";
 shapes = (
 {
 closed = 1;
@@ -86,7 +86,7 @@ nodes = (
 width = 594;
 },
 {
-layerId = "E64728B9-E266-466D-8B00-8DDE1D2CA3E4";
+layerId = "5887A550-6249-40A4-806C-FE2DD5168882";
 shapes = (
 {
 closed = 1;
@@ -128,7 +128,7 @@ nodes = (
 width = 586;
 },
 {
-layerId = "FCB1C76D-2FA9-4C34-B9A5-09CF66038F2E";
+layerId = "1321AD43-5B57-4768-A503-D178202AE048";
 shapes = (
 {
 closed = 1;

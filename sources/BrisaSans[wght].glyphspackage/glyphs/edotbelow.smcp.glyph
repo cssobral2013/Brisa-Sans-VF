@@ -1,0 +1,75 @@
+{
+glyphname = edotbelow.smcp;
+layers = (
+{
+anchors = (
+{
+name = hook;
+position = "{247, 477}";
+},
+{
+name = top;
+position = "{247, 497}";
+}
+);
+layerId = "BC1C0262-B179-41F2-9022-DD18C3300059";
+shapes = (
+{
+alignment = -1;
+ref = e.smcp;
+},
+{
+alignment = -1;
+pos = (255,0);
+ref = dotbelowcomb;
+}
+);
+width = 484;
+},
+{
+layerId = "022C621B-D9C5-4075-856F-99776A9BB9BC";
+shapes = (
+{
+alignment = -1;
+ref = e.smcp;
+},
+{
+alignment = -1;
+pos = (257,0);
+ref = dotbelowcomb;
+}
+);
+width = 482;
+},
+{
+layerId = "F46EB350-572D-40B6-8F96-70923BCB3D86";
+shapes = (
+{
+alignment = -1;
+ref = e.smcp;
+},
+{
+alignment = -1;
+pos = (260,0);
+ref = dotbelowcomb;
+}
+);
+width = 479;
+},
+{
+layerId = "7900522D-7321-4A46-8482-E4D00C1490A1";
+shapes = (
+{
+alignment = -1;
+ref = e.smcp;
+},
+{
+alignment = -1;
+pos = (256,0);
+ref = dotbelowcomb;
+}
+);
+width = 471;
+}
+);
+}

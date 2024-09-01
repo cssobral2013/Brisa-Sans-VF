@@ -1,0 +1,22 @@
+{
+glyphname = zerowidthjoiner;
+layers = (
+{
+layerId = "BC1C0262-B179-41F2-9022-DD18C3300059";
+width = 0;
+},
+{
+layerId = "022C621B-D9C5-4075-856F-99776A9BB9BC";
+width = 0;
+},
+{
+layerId = "F46EB350-572D-40B6-8F96-70923BCB3D86";
+width = 0;
+},
+{
+layerId = "7900522D-7321-4A46-8482-E4D00C1490A1";
+width = 0;
+}
+);
+unicode = 8205;
+}

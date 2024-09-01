@@ -8,11 +8,11 @@ tag = wght;
 );
 classes = (
 {
-code = "question exclam questiondown exclamdown questiondown.case exclamdown.case zero one two three four five six seven eight nine zero.alt one.alt two.alt three.alt four.alt five.alt six.alt seven.alt eight.alt nine.alt percent perthousand dollar cent sterling yen Euro dong tenge indianrupee tugrik peso guarani hryvnia won cedi turkishlira newsheqel colonmonetary naira kip euroarchaic cruzeiro mill rupee parenleft parenright slash backslash bracketleft bracketright braceleft braceright at ampersand asterisk parenleft.case parenright.case slash.case backslash.case bracketleft.case bracketright.case braceleft.case braceright.case at.case A B C D E F G H I J K L M N O P Q R S T U V W X Y Z quoteleft quoteright quotedblleft quotedblright IJ Ldot Thorn AE OE Germandbls Eng Eth Dcroat Hbar Istroke Obar Ubar Tbar Lslash Oslash Ccedilla Hcedilla Scedilla Tcedilla Aogonek Eogonek Iogonek Uogonek Aacute Cacute Eacute Gacute Iacute Lacute Macute Nacute Oacute Racute Sacute Uacute Wacute Yacute Zacute AEacute Oslashacute Ohungarumlaut Uhungarumlaut Agrave Egrave Igrave Ograve Ugrave Wgrave Ygrave Acircumflex Ccircumflex Ecircumflex Gcircumflex Hcircumflex Icircumflex Jcircumflex Ocircumflex Scircumflex Ucircumflex Wcircumflex Ycircumflex Atilde Etilde Itilde Ntilde Otilde Utilde Ytilde Acaron Ccaron Dcaron Ecaron Icaron Lcaron Ncaron Ocaron Rcaron Scaron Tcaron Ucaron Zcaron Amacron Emacron Imacron Omacron Umacron Adieresis Edieresis Idieresis Odieresis Udieresis Wdieresis Ydieresis Abreve Ebreve Gbreve Ibreve Obreve Ubreve Edotaccent Idotaccent Cdotaccent Gdotaccent Ndot Zdotaccent Adotbelow Edotbelow Idotbelow Odotbelow Sdotbelow Udotbelow Ydotbelow Dcedilla Gcommaaccent Kcommaaccent Lcommaaccent Ncommaaccent Rcommaaccent Scommaaccent Tcommaaccent Aring Uring Aringacute";
+code = "question exclam questiondown exclamdown zero.inferior fraction percent perthousand dollar cent sterling yen dong tenge indianrupee tugrik peso guarani hryvnia cedi turkishlira newsheqel colonmonetary kip euroarchaic cruzeiro rupee florin.crcy parenleft parenright slash backslash bracketleft bracketright braceleft braceright ampersand asterisk a b c d e f g h i j k l m n o p q r s t u v w x y z quoteleft quoteright quotedblleft quotedblright quotereversed quotedblreversed dotlessi ij ldot thorn ae oe germandbls eng eth dcroat hbar istroke obarred ubar tbar lslash oslash ccedilla hcedilla scedilla tcedilla aogonek eogonek iogonek uogonek acutecomb hungarumlautcomb aacute cacute eacute gacute iacute lacute macute nacute oacute racute sacute uacute wacute yacute zacute aeacute oslashacute ohungarumlaut uhungarumlaut gravecomb agrave egrave igrave ograve ugrave wgrave ygrave acircumflex ccircumflex ecircumflex gcircumflex hcircumflex icircumflex jcircumflex ocircumflex scircumflex ucircumflex wcircumflex ycircumflex atilde etilde itilde ntilde otilde utilde ytilde acaron ccaron dcaron ecaron gcaron icaron lcaron ncaron ocaron rcaron scaron tcaron ucaron zcaron amacron emacron imacron omacron umacron adieresis edieresis idieresis odieresis udieresis wdieresis ydieresis abreve ebreve gbreve ibreve obreve ubreve edotaccent cdotaccent gdotaccent ndot zdotaccent adotbelow edotbelow idotbelow odotbelow sdotbelow udotbelow ydotbelow dcedilla gcommaaccent kcommaaccent lcommaaccent ncommaaccent rcommaaccent scommaaccent tcommaaccent aring uring aringacute at zero one two three four five six seven eight nine zero.alt one.alt two.alt three.alt four.alt five.alt six.alt seven.alt eight.alt nine.alt Germandbls";
 name = c2sc;
 },
 {
-code = "question.smcp exclam.smcp questiondown.smcp exclamdown.smcp questiondown.smcp exclamdown.smcp zero.tscf one.tscf two.tscf three.tscf four.tscf five.tscf six.tscf seven.tscf eight.tscf nine.tscf percent.smcp perthousand.smcp dollar.smcp cent.smcp sterling.smcp yen.smcp dong.smcp tenge.smcp indianrupee.smcp tugrik.smcp peso.smcp guarani.smcp hryvnia.smcp cedi.smcp turkishlira.smcp newsheqel.smcp colonmonetary.smcp kip.smcp euroarchaic.smcp cruzeiro.smcp rupee.smcp parenleft.smcp parenright.smcp slash.smcp backslash.smcp bracketleft.smcp bracketright.smcp braceleft.smcp braceright.smcp at.smcp ampersand.smcp parenleft.smcp parenright.smcp slash.smcp backslash.smcp bracketleft.smcp bracketright.smcp braceleft.smcp braceright.smcp at.smcp a.smcp b.smcp c.smcp d.smcp e.smcp f.smcp g.smcp h.smcp i.smcp j.smcp k.smcp l.smcp m.smcp n.smcp o.smcp p.smcp q.smcp r.smcp s.smcp t.smcp u.smcp v.smcp w.smcp x.smcp y.smcp z.smcp ij thorn.smcp ae.smcp oe.smcp Germandbls.c2sc eng.smcp eth.smcp hbar.smcp istroke.smcp obarred.smcp ubar.smcp tbar.smcp lslash.smcp oslash.smcp ccedilla.smcp hcedilla.smcp scedilla.smcp tcedilla.smcp aogonek.smcp eogonek.smcp iogonek.smcp uogonek.smcp gacute.smcp macute.smcp aeacute.smcp oslashacute.smcp etilde.smcp ytilde.smcp acaron.smcp icaron.smcp ocaron.smcp ucaron.smcp ndot.smcp adotbelow.smcp edotbelow.smcp idotbelow.smcp odotbelow.smcp sdotbelow.smcp udotbelow.smcp ydotbelow.smcp dcedilla.smcp aring.smcp aringacute.smcp";
+code = "question.smcp exclam.smcp questiondown.smcp exclamdown.smcp zero.inferior.smcp fraction.smcp percent.smcp perthousand.smcp dollar.smcp cent.smcp sterling.smcp yen.smcp dong.smcp tenge.smcp indianrupee.smcp tugrik.smcp peso.smcp guarani.smcp hryvnia.smcp cedi.smcp turkishlira.smcp newsheqel.smcp colonmonetary.smcp kip.smcp euroarchaic.smcp cruzeiro.smcp rupee.smcp florin.crcy.smcp parenleft.smcp parenright.smcp slash.smcp backslash.smcp bracketleft.smcp bracketright.smcp braceleft.smcp braceright.smcp ampersand.smcp asterisk.smcp a.smcp b.smcp c.smcp d.smcp e.smcp f.smcp g.smcp h.smcp i.smcp j.smcp k.smcp l.smcp m.smcp n.smcp o.smcp p.smcp q.smcp r.smcp s.smcp t.smcp u.smcp v.smcp w.smcp x.smcp y.smcp z.smcp quoteleft.smcp quoteright.smcp quotedblleft.smcp quotedblright.smcp quotereversed.smcp quotedblreversed.smcp dotlessi.smcp ij.smcp ldot.smcp thorn.smcp ae.smcp oe.smcp germandbls.smcp eng.smcp eth.smcp dcroat.smcp hbar.smcp istroke.smcp obarred.smcp ubar.smcp tbar.smcp lslash.smcp oslash.smcp ccedilla.smcp hcedilla.smcp scedilla.smcp tcedilla.smcp aogonek.smcp eogonek.smcp iogonek.smcp uogonek.smcp acutecomb.smcp hungarumlautcomb.smcp aacute.smcp cacute.smcp eacute.smcp gacute.smcp iacute.smcp lacute.smcp macute.smcp nacute.smcp oacute.smcp racute.smcp sacute.smcp uacute.smcp wacute.smcp yacute.smcp zacute.smcp aeacute.smcp oslashacute.smcp ohungarumlaut.smcp uhungarumlaut.smcp gravecomb.smcp agrave.smcp egrave.smcp igrave.smcp ograve.smcp ugrave.smcp wgrave.smcp ygrave.smcp acircumflex.smcp ccircumflex.smcp ecircumflex.smcp gcircumflex.smcp hcircumflex.smcp icircumflex.smcp jcircumflex.smcp ocircumflex.smcp scircumflex.smcp ucircumflex.smcp wcircumflex.smcp ycircumflex.smcp atilde.smcp etilde.smcp itilde.smcp ntilde.smcp otilde.smcp utilde.smcp ytilde.smcp acaron.smcp ccaron.smcp dcaron.smcp ecaron.smcp gcaron.smcp icaron.smcp lcaron.smcp ncaron.smcp ocaron.smcp rcaron.smcp scaron.smcp tcaron.smcp ucaron.smcp zcaron.smcp amacron.smcp emacron.smcp imacron.smcp omacron.smcp umacron.smcp adieresis.smcp edieresis.smcp idieresis.smcp odieresis.smcp udieresis.smcp wdieresis.smcp ydieresis.smcp abreve.smcp ebreve.smcp gbreve.smcp ibreve.smcp obreve.smcp ubreve.smcp edotaccent.smcp cdotaccent.smcp gdotaccent.smcp ndot.smcp zdotaccent.smcp adotbelow.smcp edotbelow.smcp idotbelow.smcp odotbelow.smcp sdotbelow.smcp udotbelow.smcp ydotbelow.smcp dcedilla.smcp gcommaaccent.smcp kcommaaccent.smcp lcommaaccent.smcp ncommaaccent.smcp rcommaaccent.smcp scommaaccent.smcp tcommaaccent.smcp aring.smcp uring.smcp aringacute.smcp at.smcp zero.tscf one.tscf two.tscf three.tscf four.tscf five.tscf six.tscf seven.tscf eight.tscf nine.tscf zero.pscf one.pscf two.pscf three.pscf four.pscf five.pscf six.pscf seven.pscf eight.pscf nine.pscf Germandbls.c2sc";
 name = c2sc2;
 },
 {
@@ -108,11 +108,11 @@ code = "zero.alt one.alt two.alt three.alt four.alt five.alt six.alt seven.alt e
 name = pnum_tnum;
 },
 {
-code = "question exclam questiondown exclamdown zero one two three four five six seven eight nine zero.alt one.alt two.alt three.alt four.alt five.alt six.alt seven.alt eight.alt nine.alt percent perthousand dollar cent sterling yen Euro dong tenge indianrupee tugrik peso guarani hryvnia won cedi turkishlira newsheqel colonmonetary naira kip euroarchaic cruzeiro mill rupee parenleft parenright slash backslash bracketleft bracketright braceleft braceright at ampersand asterisk a b c d e f g h i j k l m n o p q r s t u v w x y z quoteleft quoteright quotedblleft quotedblright quotereversed quotedblreversed dotlessi ij ldot thorn ae oe germandbls eng eth dcroat hbar istroke obarred ubar tbar lslash oslash ccedilla hcedilla scedilla tcedilla aogonek eogonek iogonek uogonek aacute cacute eacute gacute iacute lacute macute nacute oacute racute sacute uacute wacute yacute zacute aeacute oslashacute ohungarumlaut uhungarumlaut agrave egrave igrave ograve ugrave wgrave ygrave acircumflex ccircumflex ecircumflex gcircumflex hcircumflex icircumflex jcircumflex ocircumflex scircumflex ucircumflex wcircumflex ycircumflex atilde etilde itilde ntilde otilde utilde ytilde acaron ccaron dcaron ecaron icaron lcaron ncaron ocaron rcaron scaron tcaron ucaron zcaron amacron emacron imacron omacron umacron adieresis edieresis idieresis odieresis udieresis wdieresis ydieresis abreve ebreve gbreve ibreve obreve ubreve edotaccent cdotaccent gdotaccent ndot zdotaccent adotbelow edotbelow idotbelow odotbelow sdotbelow udotbelow ydotbelow dcedilla gcommaaccent kcommaaccent lcommaaccent ncommaaccent rcommaaccent scommaaccent tcommaaccent aring uring aringacute";
+code = "question exclam questiondown exclamdown zero.inferior fraction percent perthousand dollar cent sterling yen dong tenge indianrupee tugrik peso guarani hryvnia cedi turkishlira newsheqel colonmonetary kip euroarchaic cruzeiro rupee florin.crcy parenleft parenright slash backslash bracketleft bracketright braceleft braceright ampersand asterisk a b c d e f g h i j k l m n o p q r s t u v w x y z quoteleft quoteright quotedblleft quotedblright quotereversed quotedblreversed dotlessi ij ldot thorn ae oe germandbls eng eth dcroat hbar istroke obarred ubar tbar lslash oslash ccedilla hcedilla scedilla tcedilla aogonek eogonek iogonek uogonek acutecomb hungarumlautcomb aacute cacute eacute gacute iacute lacute macute nacute oacute racute sacute uacute wacute yacute zacute aeacute oslashacute ohungarumlaut uhungarumlaut gravecomb agrave egrave igrave ograve ugrave wgrave ygrave acircumflex ccircumflex ecircumflex gcircumflex hcircumflex icircumflex jcircumflex ocircumflex scircumflex ucircumflex wcircumflex ycircumflex atilde etilde itilde ntilde otilde utilde ytilde acaron ccaron dcaron ecaron gcaron icaron lcaron ncaron ocaron rcaron scaron tcaron ucaron zcaron amacron emacron imacron omacron umacron adieresis edieresis idieresis odieresis udieresis wdieresis ydieresis abreve ebreve gbreve ibreve obreve ubreve edotaccent cdotaccent gdotaccent ndot zdotaccent adotbelow edotbelow idotbelow odotbelow sdotbelow udotbelow ydotbelow dcedilla gcommaaccent kcommaaccent lcommaaccent ncommaaccent rcommaaccent scommaaccent tcommaaccent aring uring aringacute at zero one two three four five six seven eight nine zero.alt one.alt two.alt three.alt four.alt five.alt six.alt seven.alt eight.alt nine.alt Germandbls";
 name = smcp;
 },
 {
-code = "question.smcp exclam.smcp questiondown.smcp exclamdown.smcp zero.tscf one.tscf two.tscf three.tscf four.tscf five.tscf six.tscf seven.tscf eight.tscf nine.tscf percent.smcp perthousand.smcp dollar.smcp cent.smcp sterling.smcp yen.smcp dong.smcp tenge.smcp indianrupee.smcp tugrik.smcp peso.smcp guarani.smcp hryvnia.smcp cedi.smcp turkishlira.smcp newsheqel.smcp colonmonetary.smcp kip.smcp euroarchaic.smcp cruzeiro.smcp rupee.smcp parenleft.smcp parenright.smcp slash.smcp backslash.smcp bracketleft.smcp bracketright.smcp braceleft.smcp braceright.smcp at.smcp ampersand.smcp a.smcp b.smcp c.smcp d.smcp e.smcp f.smcp g.smcp h.smcp i.smcp j.smcp k.smcp l.smcp m.smcp n.smcp o.smcp p.smcp q.smcp r.smcp s.smcp t.smcp u.smcp v.smcp w.smcp x.smcp y.smcp z.smcp quotereversed.smcp quotedblreversed.smcp ij thorn.smcp ae.smcp oe.smcp eng.smcp eth.smcp hbar.smcp istroke.smcp obarred.smcp ubar.smcp tbar.smcp lslash.smcp oslash.smcp ccedilla.smcp hcedilla.smcp scedilla.smcp tcedilla.smcp aogonek.smcp eogonek.smcp iogonek.smcp uogonek.smcp gacute.smcp macute.smcp aeacute.smcp oslashacute.smcp etilde.smcp ytilde.smcp acaron.smcp icaron.smcp ocaron.smcp ucaron.smcp ndot.smcp adotbelow.smcp edotbelow.smcp idotbelow.smcp odotbelow.smcp sdotbelow.smcp udotbelow.smcp ydotbelow.smcp dcedilla.smcp aring.smcp aringacute.smcp";
+code = "question.smcp exclam.smcp questiondown.smcp exclamdown.smcp zero.inferior.smcp fraction.smcp percent.smcp perthousand.smcp dollar.smcp cent.smcp sterling.smcp yen.smcp dong.smcp tenge.smcp indianrupee.smcp tugrik.smcp peso.smcp guarani.smcp hryvnia.smcp cedi.smcp turkishlira.smcp newsheqel.smcp colonmonetary.smcp kip.smcp euroarchaic.smcp cruzeiro.smcp rupee.smcp florin.crcy.smcp parenleft.smcp parenright.smcp slash.smcp backslash.smcp bracketleft.smcp bracketright.smcp braceleft.smcp braceright.smcp ampersand.smcp asterisk.smcp a.smcp b.smcp c.smcp d.smcp e.smcp f.smcp g.smcp h.smcp i.smcp j.smcp k.smcp l.smcp m.smcp n.smcp o.smcp p.smcp q.smcp r.smcp s.smcp t.smcp u.smcp v.smcp w.smcp x.smcp y.smcp z.smcp quoteleft.smcp quoteright.smcp quotedblleft.smcp quotedblright.smcp quotereversed.smcp quotedblreversed.smcp dotlessi.smcp ij.smcp ldot.smcp thorn.smcp ae.smcp oe.smcp germandbls.smcp eng.smcp eth.smcp dcroat.smcp hbar.smcp istroke.smcp obarred.smcp ubar.smcp tbar.smcp lslash.smcp oslash.smcp ccedilla.smcp hcedilla.smcp scedilla.smcp tcedilla.smcp aogonek.smcp eogonek.smcp iogonek.smcp uogonek.smcp acutecomb.smcp hungarumlautcomb.smcp aacute.smcp cacute.smcp eacute.smcp gacute.smcp iacute.smcp lacute.smcp macute.smcp nacute.smcp oacute.smcp racute.smcp sacute.smcp uacute.smcp wacute.smcp yacute.smcp zacute.smcp aeacute.smcp oslashacute.smcp ohungarumlaut.smcp uhungarumlaut.smcp gravecomb.smcp agrave.smcp egrave.smcp igrave.smcp ograve.smcp ugrave.smcp wgrave.smcp ygrave.smcp acircumflex.smcp ccircumflex.smcp ecircumflex.smcp gcircumflex.smcp hcircumflex.smcp icircumflex.smcp jcircumflex.smcp ocircumflex.smcp scircumflex.smcp ucircumflex.smcp wcircumflex.smcp ycircumflex.smcp atilde.smcp etilde.smcp itilde.smcp ntilde.smcp otilde.smcp utilde.smcp ytilde.smcp acaron.smcp ccaron.smcp dcaron.smcp ecaron.smcp gcaron.smcp icaron.smcp lcaron.smcp ncaron.smcp ocaron.smcp rcaron.smcp scaron.smcp tcaron.smcp ucaron.smcp zcaron.smcp amacron.smcp emacron.smcp imacron.smcp omacron.smcp umacron.smcp adieresis.smcp edieresis.smcp idieresis.smcp odieresis.smcp udieresis.smcp wdieresis.smcp ydieresis.smcp abreve.smcp ebreve.smcp gbreve.smcp ibreve.smcp obreve.smcp ubreve.smcp edotaccent.smcp cdotaccent.smcp gdotaccent.smcp ndot.smcp zdotaccent.smcp adotbelow.smcp edotbelow.smcp idotbelow.smcp odotbelow.smcp sdotbelow.smcp udotbelow.smcp ydotbelow.smcp dcedilla.smcp gcommaaccent.smcp kcommaaccent.smcp lcommaaccent.smcp ncommaaccent.smcp rcommaaccent.smcp scommaaccent.smcp tcommaaccent.smcp aring.smcp uring.smcp aringacute.smcp at.smcp zero.tscf one.tscf two.tscf three.tscf four.tscf five.tscf six.tscf seven.tscf eight.tscf nine.tscf zero.pscf one.pscf two.pscf three.pscf four.pscf five.pscf six.pscf seven.pscf eight.pscf nine.pscf Germandbls.c2sc";
 name = smcp2;
 },
 {
@@ -122,6 +122,18 @@ name = frac_sups;
 {
 code = "zero.inferior one.inferior two.inferior three.inferior four.inferior five.inferior six.inferior seven.inferior eight.inferior nine.inferior";
 name = subs;
+},
+{
+code = "zero one two three four five six seven eight nine zero.alt one.alt two.alt three.alt four.alt five.alt six.alt seven.alt eight.alt nine.alt";
+name = calt;
+},
+{
+code = "Elcyr.loclBGR Decyr.loclBGR kacyr.loclBGR zhecyr.loclBGR pecyr.loclBGR tecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR igravecyr.loclBGR shacyr.loclBGR shchacyr.loclBGR tsecyr.loclBGR decyr.loclBGR vecyr.loclBGR gecyr.loclBGR softcyr.loclBGR hardcyr.loclBGR elcyr.loclBGR zecyr.loclBGR yucyr.loclBGR";
+name = loclBGR2;
+},
+{
+code = "Elcyr Decyr kacyr zhecyr pecyr tecyr icyr ishortcyr igravecyr shacyr shchacyr tsecyr decyr vecyr gecyr softcyr hardcyr elcyr zecyr yucyr.loclBGR";
+name = loclBGR;
 }
 );
 familyName = "Brisa Sans";
@@ -1451,7 +1463,31 @@ righttoleftoverride,
 replacementcharobj,
 zerowidthnobreakspace,
 replacementchar,
-at.smcp
+at.smcp,
+Elcyr.loclBGR,
+Decyr.loclBGR,
+kacyr.loclBGR,
+zhecyr.loclBGR,
+pecyr.loclBGR,
+tecyr.loclBGR,
+icyr.loclBGR,
+ishortcyr.loclBGR,
+igravecyr.loclBGR,
+shacyr.loclBGR,
+shchacyr.loclBGR,
+tsecyr.loclBGR,
+decyr.loclBGR,
+vecyr.loclBGR,
+gecyr.loclBGR,
+softcyr.loclBGR,
+hardcyr.loclBGR,
+elcyr.loclBGR,
+zecyr.loclBGR,
+yucyr.loclBGR,
+idieresis.calt,
+idieresis.calt2,
+Idieresis.calt,
+Idieresis.calt2
 );
 },
 {
@@ -1467,8 +1503,8 @@ featurePrefixes = (
 {
 code = "#> classes
 #/> otclasses
-@c2sc = [question exclam questiondown exclamdown questiondown.case exclamdown.case zero one two three four five six seven eight nine zero.alt one.alt two.alt three.alt four.alt five.alt six.alt seven.alt eight.alt nine.alt percent perthousand dollar cent sterling yen Euro dong tenge indianrupee tugrik peso guarani hryvnia won cedi turkishlira newsheqel colonmonetary naira kip euroarchaic cruzeiro mill rupee parenleft parenright slash backslash bracketleft bracketright braceleft braceright at ampersand asterisk parenleft.case parenright.case slash.case backslash.case bracketleft.case bracketright.case braceleft.case braceright.case at.case A B C D E F G H I J K L M N O P Q R S T U V W X Y Z quoteleft quoteright quotedblleft quotedblright IJ Ldot Thorn AE OE Germandbls Eng Eth Dcroat Hbar Istroke Obar Ubar Tbar Lslash Oslash Ccedilla Hcedilla Scedilla Tcedilla Aogonek Eogonek Iogonek Uogonek Aacute Cacute Eacute Gacute Iacute Lacute Macute Nacute Oacute Racute Sacute Uacute Wacute Yacute Zacute AEacute Oslashacute Ohungarumlaut Uhungarumlaut Agrave Egrave Igrave Ograve Ugrave Wgrave Ygrave Acircumflex Ccircumflex Ecircumflex Gcircumflex Hcircumflex Icircumflex Jcircumflex Ocircumflex Scircumflex Ucircumflex Wcircumflex Ycircumflex Atilde Etilde Itilde Ntilde Otilde Utilde Ytilde Acaron Ccaron Dcaron Ecaron Icaron Lcaron Ncaron Ocaron Rcaron Scaron Tcaron Ucaron Zcaron Amacron Emacron Imacron Omacron Umacron Adieresis Edieresis Idieresis Odieresis Udieresis Wdieresis Ydieresis Abreve Ebreve Gbreve Ibreve Obreve Ubreve Edotaccent Idotaccent Cdotaccent Gdotaccent Ndot Zdotaccent Adotbelow Edotbelow Idotbelow Odotbelow Sdotbelow Udotbelow Ydotbelow Dcedilla Gcommaaccent Kcommaaccent Lcommaaccent Ncommaaccent Rcommaaccent Scommaaccent Tcommaaccent Aring Uring Aringacute];
-@c2sc2 = [question.smcp exclam.smcp questiondown.smcp exclamdown.smcp questiondown.smcp exclamdown.smcp zero.tscf one.tscf two.tscf three.tscf four.tscf five.tscf six.tscf seven.tscf eight.tscf nine.tscf percent.smcp perthousand.smcp dollar.smcp cent.smcp sterling.smcp yen.smcp dong.smcp tenge.smcp indianrupee.smcp tugrik.smcp peso.smcp guarani.smcp hryvnia.smcp cedi.smcp turkishlira.smcp newsheqel.smcp colonmonetary.smcp kip.smcp euroarchaic.smcp cruzeiro.smcp rupee.smcp parenleft.smcp parenright.smcp slash.smcp backslash.smcp bracketleft.smcp bracketright.smcp braceleft.smcp braceright.smcp at.smcp ampersand.smcp parenleft.smcp parenright.smcp slash.smcp backslash.smcp bracketleft.smcp bracketright.smcp braceleft.smcp braceright.smcp at.smcp a.smcp b.smcp c.smcp d.smcp e.smcp f.smcp g.smcp h.smcp i.smcp j.smcp k.smcp l.smcp m.smcp n.smcp o.smcp p.smcp q.smcp r.smcp s.smcp t.smcp u.smcp v.smcp w.smcp x.smcp y.smcp z.smcp ij thorn.smcp ae.smcp oe.smcp Germandbls.c2sc eng.smcp eth.smcp hbar.smcp istroke.smcp obarred.smcp ubar.smcp tbar.smcp lslash.smcp oslash.smcp ccedilla.smcp hcedilla.smcp scedilla.smcp tcedilla.smcp aogonek.smcp eogonek.smcp iogonek.smcp uogonek.smcp gacute.smcp macute.smcp aeacute.smcp oslashacute.smcp etilde.smcp ytilde.smcp acaron.smcp icaron.smcp ocaron.smcp ucaron.smcp ndot.smcp adotbelow.smcp edotbelow.smcp idotbelow.smcp odotbelow.smcp sdotbelow.smcp udotbelow.smcp ydotbelow.smcp dcedilla.smcp aring.smcp aringacute.smcp];
+@c2sc = [question exclam questiondown exclamdown zero.inferior fraction percent perthousand dollar cent sterling yen dong tenge indianrupee tugrik peso guarani hryvnia cedi turkishlira newsheqel colonmonetary kip euroarchaic cruzeiro rupee florin.crcy parenleft parenright slash backslash bracketleft bracketright braceleft braceright ampersand asterisk a b c d e f g h i j k l m n o p q r s t u v w x y z quoteleft quoteright quotedblleft quotedblright quotereversed quotedblreversed dotlessi ij ldot thorn ae oe germandbls eng eth dcroat hbar istroke obarred ubar tbar lslash oslash ccedilla hcedilla scedilla tcedilla aogonek eogonek iogonek uogonek acutecomb hungarumlautcomb aacute cacute eacute gacute iacute lacute macute nacute oacute racute sacute uacute wacute yacute zacute aeacute oslashacute ohungarumlaut uhungarumlaut gravecomb agrave egrave igrave ograve ugrave wgrave ygrave acircumflex ccircumflex ecircumflex gcircumflex hcircumflex icircumflex jcircumflex ocircumflex scircumflex ucircumflex wcircumflex ycircumflex atilde etilde itilde ntilde otilde utilde ytilde acaron ccaron dcaron ecaron gcaron icaron lcaron ncaron ocaron rcaron scaron tcaron ucaron zcaron amacron emacron imacron omacron umacron adieresis edieresis idieresis odieresis udieresis wdieresis ydieresis abreve ebreve gbreve ibreve obreve ubreve edotaccent cdotaccent gdotaccent ndot zdotaccent adotbelow edotbelow idotbelow odotbelow sdotbelow udotbelow ydotbelow dcedilla gcommaaccent kcommaaccent lcommaaccent ncommaaccent rcommaaccent scommaaccent tcommaaccent aring uring aringacute at zero one two three four five six seven eight nine zero.alt one.alt two.alt three.alt four.alt five.alt six.alt seven.alt eight.alt nine.alt Germandbls];
+@c2sc2 = [question.smcp exclam.smcp questiondown.smcp exclamdown.smcp zero.inferior.smcp fraction.smcp percent.smcp perthousand.smcp dollar.smcp cent.smcp sterling.smcp yen.smcp dong.smcp tenge.smcp indianrupee.smcp tugrik.smcp peso.smcp guarani.smcp hryvnia.smcp cedi.smcp turkishlira.smcp newsheqel.smcp colonmonetary.smcp kip.smcp euroarchaic.smcp cruzeiro.smcp rupee.smcp florin.crcy.smcp parenleft.smcp parenright.smcp slash.smcp backslash.smcp bracketleft.smcp bracketright.smcp braceleft.smcp braceright.smcp ampersand.smcp asterisk.smcp a.smcp b.smcp c.smcp d.smcp e.smcp f.smcp g.smcp h.smcp i.smcp j.smcp k.smcp l.smcp m.smcp n.smcp o.smcp p.smcp q.smcp r.smcp s.smcp t.smcp u.smcp v.smcp w.smcp x.smcp y.smcp z.smcp quoteleft.smcp quoteright.smcp quotedblleft.smcp quotedblright.smcp quotereversed.smcp quotedblreversed.smcp dotlessi.smcp ij.smcp ldot.smcp thorn.smcp ae.smcp oe.smcp germandbls.smcp eng.smcp eth.smcp dcroat.smcp hbar.smcp istroke.smcp obarred.smcp ubar.smcp tbar.smcp lslash.smcp oslash.smcp ccedilla.smcp hcedilla.smcp scedilla.smcp tcedilla.smcp aogonek.smcp eogonek.smcp iogonek.smcp uogonek.smcp acutecomb.smcp hungarumlautcomb.smcp aacute.smcp cacute.smcp eacute.smcp gacute.smcp iacute.smcp lacute.smcp macute.smcp nacute.smcp oacute.smcp racute.smcp sacute.smcp uacute.smcp wacute.smcp yacute.smcp zacute.smcp aeacute.smcp oslashacute.smcp ohungarumlaut.smcp uhungarumlaut.smcp gravecomb.smcp agrave.smcp egrave.smcp igrave.smcp ograve.smcp ugrave.smcp wgrave.smcp ygrave.smcp acircumflex.smcp ccircumflex.smcp ecircumflex.smcp gcircumflex.smcp hcircumflex.smcp icircumflex.smcp jcircumflex.smcp ocircumflex.smcp scircumflex.smcp ucircumflex.smcp wcircumflex.smcp ycircumflex.smcp atilde.smcp etilde.smcp itilde.smcp ntilde.smcp otilde.smcp utilde.smcp ytilde.smcp acaron.smcp ccaron.smcp dcaron.smcp ecaron.smcp gcaron.smcp icaron.smcp lcaron.smcp ncaron.smcp ocaron.smcp rcaron.smcp scaron.smcp tcaron.smcp ucaron.smcp zcaron.smcp amacron.smcp emacron.smcp imacron.smcp omacron.smcp umacron.smcp adieresis.smcp edieresis.smcp idieresis.smcp odieresis.smcp udieresis.smcp wdieresis.smcp ydieresis.smcp abreve.smcp ebreve.smcp gbreve.smcp ibreve.smcp obreve.smcp ubreve.smcp edotaccent.smcp cdotaccent.smcp gdotaccent.smcp ndot.smcp zdotaccent.smcp adotbelow.smcp edotbelow.smcp idotbelow.smcp odotbelow.smcp sdotbelow.smcp udotbelow.smcp ydotbelow.smcp dcedilla.smcp gcommaaccent.smcp kcommaaccent.smcp lcommaaccent.smcp ncommaaccent.smcp rcommaaccent.smcp scommaaccent.smcp tcommaaccent.smcp aring.smcp uring.smcp aringacute.smcp at.smcp zero.tscf one.tscf two.tscf three.tscf four.tscf five.tscf six.tscf seven.tscf eight.tscf nine.tscf zero.pscf one.pscf two.pscf three.pscf four.pscf five.pscf six.pscf seven.pscf eight.pscf nine.pscf Germandbls.c2sc];
 @case = [questiondown exclamdown hyphen endash emdash parenleft parenright slash backslash bracketleft bracketright braceleft braceright bullet guilsinglleft guilsinglright guillemotleft guillemotright at];
 @case2 = [questiondown.case exclamdown.case hyphen.case endash.case emdash.case parenleft.case parenright.case slash.case backslash.case bracketleft.case bracketright.case braceleft.case braceright.case bullet.case guilsinglleft.case guilsinglright.case guillemotleft.case guillemotright.case at.case];
 @ccmp = [Ccedilla Hcedilla Scedilla Tcedilla Aogonek Eogonek Iogonek Uogonek ccedilla hcedilla scedilla tcedilla aogonek eogonek iogonek uogonek Aacute Cacute Eacute Gacute Iacute Lacute Macute Nacute Oacute Racute Sacute Uacute Wacute Yacute Zacute AEacute Oslashacute Ohungarumlaut Uhungarumlaut aacute cacute eacute gacute iacute lacute macute nacute oacute racute sacute uacute wacute yacute zacute aeacute oslashacute ohungarumlaut uhungarumlaut Agrave Egrave Igrave Ograve Ugrave Wgrave Ygrave agrave egrave igrave ograve ugrave wgrave ygrave Acircumflex Ccircumflex Ecircumflex Gcircumflex Hcircumflex Icircumflex Jcircumflex Ocircumflex Scircumflex Ucircumflex Wcircumflex Ycircumflex Atilde Etilde Itilde Ntilde Otilde Utilde Ytilde acircumflex ccircumflex ecircumflex gcircumflex hcircumflex icircumflex jcircumflex ocircumflex scircumflex ucircumflex wcircumflex ycircumflex atilde etilde itilde ntilde otilde utilde ytilde Acaron Ccaron Dcaron Ecaron Gcaron Icaron Lcaron Ncaron Ocaron Rcaron Scaron Tcaron Ucaron Zcaron Amacron Emacron Imacron Omacron Umacron acaron ccaron dcaron ecaron gcaron icaron lcaron ncaron ocaron rcaron scaron tcaron ucaron zcaron amacron emacron imacron omacron umacron Adieresis Edieresis Idieresis Odieresis Udieresis Wdieresis Ydieresis Abreve Ebreve Gbreve Ibreve Obreve Ubreve adieresis edieresis idieresis odieresis udieresis wdieresis ydieresis abreve ebreve gbreve ibreve obreve ubreve Edotaccent Idotaccent Cdotaccent Gdotaccent Ndot Zdotaccent Ahoi Ehoi Ihoi Ohoi Uhoi Yhoi edotaccent cdotaccent gdotaccent ndot zdotaccent ahoi ehoi ihoi ohoi uhoi yhoi Adotbelow Edotbelow Idotbelow Odotbelow Sdotbelow Udotbelow Ydotbelow Dcedilla Gcommaaccent Kcommaaccent Lcommaaccent Ncommaaccent Rcommaaccent Scommaaccent Tcommaaccent adotbelow edotbelow idotbelow odotbelow sdotbelow udotbelow ydotbelow dcedilla gcommaaccent kcommaaccent lcommaaccent ncommaaccent rcommaaccent scommaaccent tcommaaccent Aring Uring angstrom Aringacute aring uring aringacute Ohorn Uhorn Ohornacute Uhornacute Ohorngrave Uhorngrave Ohornhoi Uhornhoi Ohorntilde Uhorntilde Ohorndotbelow Uhorndotbelow ohorn uhorn ohornacute uhornacute ohorngrave uhorngrave ohornhoi uhornhoi ohorntilde uhorntilde ohorndotbelow uhorndotbelow Acircumflexacute Ecircumflexacute Ocircumflexacute Acircumflexgrave Ecircumflexgrave Ocircumflexgrave Acircumflexhoi Ecircumflexhoi Ocircumflexhoi Acircumflextilde Ecircumflextilde Ocircumflextilde Acircumflexdotbelow Ecircumflexdotbelow Ocircumflexdotbelow acircumflexacute ecircumflexacute ocircumflexacute acircumflexgrave ecircumflexgrave ocircumflexgrave acircumflexhoi ecircumflexhoi ocircumflexhoi acircumflextilde ecircumflextilde ocircumflextilde acircumflexdotbelow ecircumflexdotbelow ocircumflexdotbelow Abreveacute Abrevegrave Abrevehoi Abrevetilde Abrevedotbelow abreveacute abrevegrave abrevehoi abrevetilde abrevedotbelow Adieresiscyr Iocyr Schwadieresiscyr Idieresiscyr Yukrcyr Zhedieresiscyr Zedieresiscyr Odieresiscyr Obardieresiscyr Ereverseddieresiscyr Udieresiscyr Chedieresiscyr Ylongdieresiscyr Gjecyr Kjecyr Iegravecyr Igravecyr adieresiscyr iocyr schwadieresiscyr idieresiscyr yukrcyr zhedieresiscyr zedieresiscyr odieresiscyr obardieresiscyr ereverseddieresiscyr udieresiscyr chedieresiscyr ylongdieresiscyr gjecyr kjecyr iegravecyr igravecyr Abrevecyr Iebrevecyr Zhebrevecyr Ishortcyr Ushortcyr Imacroncyr Umacroncyr Uacutedblcyr abrevecyr iebrevecyr zhebrevecyr ishortcyr ushortcyr imacroncyr umacroncyr uacutedblcyr Iotadieresis Upsilondieresis iotadieresis upsilondieresis dieresistonos Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos alphatonos epsilontonos etatonos iotatonos omicrontonos upsilontonos omegatonos iotadieresistonos upsilondieresistonos];
@@ -1492,10 +1528,13 @@ code = "#> classes
 @frac3 = [fraction onequarter onehalf threequarters zero.inferior one.inferior two.inferior three.inferior four.inferior five.inferior six.inferior seven.inferior eight.inferior nine.inferior oneeighth threeeighths fiveeighths seveneighths onethird twothirds onefifth twofifths threefifths fourfifths onesixth fivesixths oneseventh oneninth];
 @frac_liga_numr_sups = [zero.superior onesuperior twosuperior threesuperior four.superior five.superior six.superior seven.superior eight.superior nine.superior];
 @pnum_tnum = [zero.alt one.alt two.alt three.alt four.alt five.alt six.alt seven.alt eight.alt nine.alt];
-@smcp = [question exclam questiondown exclamdown zero one two three four five six seven eight nine zero.alt one.alt two.alt three.alt four.alt five.alt six.alt seven.alt eight.alt nine.alt percent perthousand dollar cent sterling yen Euro dong tenge indianrupee tugrik peso guarani hryvnia won cedi turkishlira newsheqel colonmonetary naira kip euroarchaic cruzeiro mill rupee parenleft parenright slash backslash bracketleft bracketright braceleft braceright at ampersand asterisk a b c d e f g h i j k l m n o p q r s t u v w x y z quoteleft quoteright quotedblleft quotedblright quotereversed quotedblreversed dotlessi ij ldot thorn ae oe germandbls eng eth dcroat hbar istroke obarred ubar tbar lslash oslash ccedilla hcedilla scedilla tcedilla aogonek eogonek iogonek uogonek aacute cacute eacute gacute iacute lacute macute nacute oacute racute sacute uacute wacute yacute zacute aeacute oslashacute ohungarumlaut uhungarumlaut agrave egrave igrave ograve ugrave wgrave ygrave acircumflex ccircumflex ecircumflex gcircumflex hcircumflex icircumflex jcircumflex ocircumflex scircumflex ucircumflex wcircumflex ycircumflex atilde etilde itilde ntilde otilde utilde ytilde acaron ccaron dcaron ecaron icaron lcaron ncaron ocaron rcaron scaron tcaron ucaron zcaron amacron emacron imacron omacron umacron adieresis edieresis idieresis odieresis udieresis wdieresis ydieresis abreve ebreve gbreve ibreve obreve ubreve edotaccent cdotaccent gdotaccent ndot zdotaccent adotbelow edotbelow idotbelow odotbelow sdotbelow udotbelow ydotbelow dcedilla gcommaaccent kcommaaccent lcommaaccent ncommaaccent rcommaaccent scommaaccent tcommaaccent aring uring aringacute];
-@smcp2 = [question.smcp exclam.smcp questiondown.smcp exclamdown.smcp zero.tscf one.tscf two.tscf three.tscf four.tscf five.tscf six.tscf seven.tscf eight.tscf nine.tscf percent.smcp perthousand.smcp dollar.smcp cent.smcp sterling.smcp yen.smcp dong.smcp tenge.smcp indianrupee.smcp tugrik.smcp peso.smcp guarani.smcp hryvnia.smcp cedi.smcp turkishlira.smcp newsheqel.smcp colonmonetary.smcp kip.smcp euroarchaic.smcp cruzeiro.smcp rupee.smcp parenleft.smcp parenright.smcp slash.smcp backslash.smcp bracketleft.smcp bracketright.smcp braceleft.smcp braceright.smcp at.smcp ampersand.smcp a.smcp b.smcp c.smcp d.smcp e.smcp f.smcp g.smcp h.smcp i.smcp j.smcp k.smcp l.smcp m.smcp n.smcp o.smcp p.smcp q.smcp r.smcp s.smcp t.smcp u.smcp v.smcp w.smcp x.smcp y.smcp z.smcp quotereversed.smcp quotedblreversed.smcp ij thorn.smcp ae.smcp oe.smcp eng.smcp eth.smcp hbar.smcp istroke.smcp obarred.smcp ubar.smcp tbar.smcp lslash.smcp oslash.smcp ccedilla.smcp hcedilla.smcp scedilla.smcp tcedilla.smcp aogonek.smcp eogonek.smcp iogonek.smcp uogonek.smcp gacute.smcp macute.smcp aeacute.smcp oslashacute.smcp etilde.smcp ytilde.smcp acaron.smcp icaron.smcp ocaron.smcp ucaron.smcp ndot.smcp adotbelow.smcp edotbelow.smcp idotbelow.smcp odotbelow.smcp sdotbelow.smcp udotbelow.smcp ydotbelow.smcp dcedilla.smcp aring.smcp aringacute.smcp];
+@smcp = [question exclam questiondown exclamdown zero.inferior fraction percent perthousand dollar cent sterling yen dong tenge indianrupee tugrik peso guarani hryvnia cedi turkishlira newsheqel colonmonetary kip euroarchaic cruzeiro rupee florin.crcy parenleft parenright slash backslash bracketleft bracketright braceleft braceright ampersand asterisk a b c d e f g h i j k l m n o p q r s t u v w x y z quoteleft quoteright quotedblleft quotedblright quotereversed quotedblreversed dotlessi ij ldot thorn ae oe germandbls eng eth dcroat hbar istroke obarred ubar tbar lslash oslash ccedilla hcedilla scedilla tcedilla aogonek eogonek iogonek uogonek acutecomb hungarumlautcomb aacute cacute eacute gacute iacute lacute macute nacute oacute racute sacute uacute wacute yacute zacute aeacute oslashacute ohungarumlaut uhungarumlaut gravecomb agrave egrave igrave ograve ugrave wgrave ygrave acircumflex ccircumflex ecircumflex gcircumflex hcircumflex icircumflex jcircumflex ocircumflex scircumflex ucircumflex wcircumflex ycircumflex atilde etilde itilde ntilde otilde utilde ytilde acaron ccaron dcaron ecaron gcaron icaron lcaron ncaron ocaron rcaron scaron tcaron ucaron zcaron amacron emacron imacron omacron umacron adieresis edieresis idieresis odieresis udieresis wdieresis ydieresis abreve ebreve gbreve ibreve obreve ubreve edotaccent cdotaccent gdotaccent ndot zdotaccent adotbelow edotbelow idotbelow odotbelow sdotbelow udotbelow ydotbelow dcedilla gcommaaccent kcommaaccent lcommaaccent ncommaaccent rcommaaccent scommaaccent tcommaaccent aring uring aringacute at zero one two three four five six seven eight nine zero.alt one.alt two.alt three.alt four.alt five.alt six.alt seven.alt eight.alt nine.alt Germandbls];
+@smcp2 = [question.smcp exclam.smcp questiondown.smcp exclamdown.smcp zero.inferior.smcp fraction.smcp percent.smcp perthousand.smcp dollar.smcp cent.smcp sterling.smcp yen.smcp dong.smcp tenge.smcp indianrupee.smcp tugrik.smcp peso.smcp guarani.smcp hryvnia.smcp cedi.smcp turkishlira.smcp newsheqel.smcp colonmonetary.smcp kip.smcp euroarchaic.smcp cruzeiro.smcp rupee.smcp florin.crcy.smcp parenleft.smcp parenright.smcp slash.smcp backslash.smcp bracketleft.smcp bracketright.smcp braceleft.smcp braceright.smcp ampersand.smcp asterisk.smcp a.smcp b.smcp c.smcp d.smcp e.smcp f.smcp g.smcp h.smcp i.smcp j.smcp k.smcp l.smcp m.smcp n.smcp o.smcp p.smcp q.smcp r.smcp s.smcp t.smcp u.smcp v.smcp w.smcp x.smcp y.smcp z.smcp quoteleft.smcp quoteright.smcp quotedblleft.smcp quotedblright.smcp quotereversed.smcp quotedblreversed.smcp dotlessi.smcp ij.smcp ldot.smcp thorn.smcp ae.smcp oe.smcp germandbls.smcp eng.smcp eth.smcp dcroat.smcp hbar.smcp istroke.smcp obarred.smcp ubar.smcp tbar.smcp lslash.smcp oslash.smcp ccedilla.smcp hcedilla.smcp scedilla.smcp tcedilla.smcp aogonek.smcp eogonek.smcp iogonek.smcp uogonek.smcp acutecomb.smcp hungarumlautcomb.smcp aacute.smcp cacute.smcp eacute.smcp gacute.smcp iacute.smcp lacute.smcp macute.smcp nacute.smcp oacute.smcp racute.smcp sacute.smcp uacute.smcp wacute.smcp yacute.smcp zacute.smcp aeacute.smcp oslashacute.smcp ohungarumlaut.smcp uhungarumlaut.smcp gravecomb.smcp agrave.smcp egrave.smcp igrave.smcp ograve.smcp ugrave.smcp wgrave.smcp ygrave.smcp acircumflex.smcp ccircumflex.smcp ecircumflex.smcp gcircumflex.smcp hcircumflex.smcp icircumflex.smcp jcircumflex.smcp ocircumflex.smcp scircumflex.smcp ucircumflex.smcp wcircumflex.smcp ycircumflex.smcp atilde.smcp etilde.smcp itilde.smcp ntilde.smcp otilde.smcp utilde.smcp ytilde.smcp acaron.smcp ccaron.smcp dcaron.smcp ecaron.smcp gcaron.smcp icaron.smcp lcaron.smcp ncaron.smcp ocaron.smcp rcaron.smcp scaron.smcp tcaron.smcp ucaron.smcp zcaron.smcp amacron.smcp emacron.smcp imacron.smcp omacron.smcp umacron.smcp adieresis.smcp edieresis.smcp idieresis.smcp odieresis.smcp udieresis.smcp wdieresis.smcp ydieresis.smcp abreve.smcp ebreve.smcp gbreve.smcp ibreve.smcp obreve.smcp ubreve.smcp edotaccent.smcp cdotaccent.smcp gdotaccent.smcp ndot.smcp zdotaccent.smcp adotbelow.smcp edotbelow.smcp idotbelow.smcp odotbelow.smcp sdotbelow.smcp udotbelow.smcp ydotbelow.smcp dcedilla.smcp gcommaaccent.smcp kcommaaccent.smcp lcommaaccent.smcp ncommaaccent.smcp rcommaaccent.smcp scommaaccent.smcp tcommaaccent.smcp aring.smcp uring.smcp aringacute.smcp at.smcp zero.tscf one.tscf two.tscf three.tscf four.tscf five.tscf six.tscf seven.tscf eight.tscf nine.tscf zero.pscf one.pscf two.pscf three.pscf four.pscf five.pscf six.pscf seven.pscf eight.pscf nine.pscf Germandbls.c2sc];
 @frac_sups = [zero.superior onesuperior twosuperior threesuperior four.superior five.superior six.superior seven.superior eight.superior nine.superior];
 @subs = [zero.inferior one.inferior two.inferior three.inferior four.inferior five.inferior six.inferior seven.inferior eight.inferior nine.inferior];
+@calt = [zero one two three four five six seven eight nine zero.alt one.alt two.alt three.alt four.alt five.alt six.alt seven.alt eight.alt nine.alt];
+@loclBGR2 = [Elcyr.loclBGR Decyr.loclBGR kacyr.loclBGR zhecyr.loclBGR pecyr.loclBGR tecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR igravecyr.loclBGR shacyr.loclBGR shchacyr.loclBGR tsecyr.loclBGR decyr.loclBGR vecyr.loclBGR gecyr.loclBGR softcyr.loclBGR hardcyr.loclBGR elcyr.loclBGR zecyr.loclBGR yucyr.loclBGR];
+@loclBGR = [Elcyr Decyr kacyr zhecyr pecyr tecyr icyr ishortcyr igravecyr shacyr shchacyr tsecyr decyr vecyr gecyr softcyr hardcyr elcyr zecyr yucyr.loclBGR];
 #/< otclasses
 #< classes
 
@@ -1892,6 +1931,10 @@ code = "# GSUB feature: Localized Forms
 
 
   script cyrl; # Cyrillic
+    language BGR ;
+    sub @loclBGR by @loclBGR2;
+
+
     language SRB ; # Serbian
 
     lookup locl_cyrlSRB_cyrlMKD {
@@ -1939,123 +1982,33 @@ tag = case;
 },
 {
 code = "# GSUB feature: Small Capitals
-# Lookups: 1
+# Lookups: 2
 
-  sub question by question.smcp;
-  sub exclam by exclam.smcp;
-  sub questiondown by questiondown.smcp;
-  sub exclamdown by exclamdown.smcp;
-  sub zero by zero.tscf;
-  sub one by one.tscf;
-  sub two by two.tscf;
-  sub three by three.tscf;
-  sub four by four.tscf;
-  sub five by five.tscf;
-  sub six by six.tscf;
-  sub seven by seven.tscf;
-  sub eight by eight.tscf;
-  sub nine by nine.tscf;
-  sub percent by percent.smcp;
-  sub perthousand by perthousand.smcp;
-  sub dollar by dollar.smcp;
-  sub cent by cent.smcp;
-  sub sterling by sterling.smcp;
-  sub yen by yen.smcp;
-  sub dong by dong.smcp;
-  sub tenge by tenge.smcp;
-  sub indianrupee by indianrupee.smcp;
-  sub tugrik by tugrik.smcp;
-  sub peso by peso.smcp;
-  sub guarani by guarani.smcp;
-  sub hryvnia by hryvnia.smcp;
-  sub cedi by cedi.smcp;
-  sub turkishlira by turkishlira.smcp;
-  sub newsheqel by newsheqel.smcp;
-  sub colonmonetary by colonmonetary.smcp;
-  sub kip by kip.smcp;
-  sub euroarchaic by euroarchaic.smcp;
-  sub cruzeiro by cruzeiro.smcp;
-  sub rupee by rupee.smcp;
-  sub parenleft by parenleft.smcp;
-  sub parenright by parenright.smcp;
-  sub slash by slash.smcp;
-  sub backslash by backslash.smcp;
-  sub bracketleft by bracketleft.smcp;
-  sub bracketright by bracketright.smcp;
-  sub braceleft by braceleft.smcp;
-  sub braceright by braceright.smcp;
-  sub at by at.smcp;
-  sub ampersand by ampersand.smcp;
-  sub a by a.smcp;
-  sub b by b.smcp;
-  sub c by c.smcp;
-  sub d by d.smcp;
-  sub e by e.smcp;
-  sub f by f.smcp;
-  sub g by g.smcp;
-  sub h by h.smcp;
-  sub i by i.smcp;
-  sub j by j.smcp;
-  sub k by k.smcp;
-  sub l by l.smcp;
-  sub m by m.smcp;
-  sub n by n.smcp;
-  sub o by o.smcp;
-  sub p by p.smcp;
-  sub q by q.smcp;
-  sub r by r.smcp;
-  sub s by s.smcp;
-  sub t by t.smcp;
-  sub u by u.smcp;
-  sub v by v.smcp;
-  sub w by w.smcp;
-  sub x by x.smcp;
-  sub y by y.smcp;
-  sub z by z.smcp;
-  sub quotereversed by quotereversed.smcp;
-  sub quotedblreversed by quotedblreversed.smcp;
-  sub ij by ij;
-  sub thorn by thorn.smcp;
-  sub ae by ae.smcp;
-  sub oe by oe.smcp;
-  sub eng by eng.smcp;
-  sub eth by eth.smcp;
-  sub hbar by hbar.smcp;
-  sub istroke by istroke.smcp;
-  sub obarred by obarred.smcp;
-  sub ubar by ubar.smcp;
-  sub tbar by tbar.smcp;
-  sub lslash by lslash.smcp;
-  sub oslash by oslash.smcp;
-  sub ccedilla by ccedilla.smcp;
-  sub hcedilla by hcedilla.smcp;
-  sub scedilla by scedilla.smcp;
-  sub tcedilla by tcedilla.smcp;
-  sub aogonek by aogonek.smcp;
-  sub eogonek by eogonek.smcp;
-  sub iogonek by iogonek.smcp;
-  sub uogonek by uogonek.smcp;
-  sub gacute by gacute.smcp;
-  sub macute by macute.smcp;
-  sub aeacute by aeacute.smcp;
-  sub oslashacute by oslashacute.smcp;
-  sub etilde by etilde.smcp;
-  sub ytilde by ytilde.smcp;
-  sub acaron by acaron.smcp;
-  sub icaron by icaron.smcp;
-  sub ocaron by ocaron.smcp;
-  sub ucaron by ucaron.smcp;
-  sub ndot by ndot.smcp;
-  sub adotbelow by adotbelow.smcp;
-  sub edotbelow by edotbelow.smcp;
-  sub idotbelow by idotbelow.smcp;
-  sub odotbelow by odotbelow.smcp;
-  sub sdotbelow by sdotbelow.smcp;
-  sub udotbelow by udotbelow.smcp;
-  sub ydotbelow by ydotbelow.smcp;
-  sub dcedilla by dcedilla.smcp;
-  sub aring by aring.smcp;
-  sub aringacute by aringacute.smcp;";
+  sub @smcp by @smcp2;
+
+  script latn; # Latin
+    language AZE ; # Azerbaijani
+
+    lookup smcp_latn {
+    # GSUB lookup 18, type 11 (Single)
+      sub i.locl by i_u0307;
+    } smcp_latn;
+
+
+    language GAG ; # Gagauz
+    lookup smcp_latn;
+
+    language TRK ; # Turkish
+    lookup smcp_latn;
+
+    language TAT ; # Tatar
+    lookup smcp_latn;
+
+    language CRT ; # Crimean Tatar
+    lookup smcp_latn;
+
+    language KAZ ; # Kazakh
+    lookup smcp_latn;";
 tag = smcp;
 },
 {
@@ -69464,6 +69417,25 @@ code = "# GSUB feature: Tabular Figures
   sub eight.alt by eight;
   sub nine.alt by nine;";
 tag = tnum;
+},
+{
+code = "# Contextual Alternates
+
+#> feature
+sub @calt colon' @calt by ratio;
+
+
+lookup idieresis_double {
+sub [idieresis yukrcyr]' [idieresis yukrcyr] by idieresis.calt;
+sub idieresis.calt [idieresis yukrcyr]' by idieresis.calt2;
+} idieresis_double;
+
+lookup Idieresis_double {
+sub [Idieresis Yukrcyr]' [Idieresis Yukrcyr] by Idieresis.calt;
+sub Idieresis.calt [Idieresis Yukrcyr]' by Idieresis.calt2;
+} Idieresis_double;
+#< feature";
+tag = calt;
 }
 );
 fontMaster = (
@@ -69566,7 +69538,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "FCB1C76D-2FA9-4C34-B9A5-09CF66038F2E";
+id = "1321AD43-5B57-4768-A503-D178202AE048";
 metricValues = (
 {
 pos = 930;
@@ -69686,7 +69658,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "E64728B9-E266-466D-8B00-8DDE1D2CA3E4";
+id = "5887A550-6249-40A4-806C-FE2DD5168882";
 metricValues = (
 {
 pos = 930;
@@ -69805,7 +69777,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "452821E5-9DA0-4F55-A4C0-CD58A2FD2761";
+id = "E9E527C0-D75F-4862-A19F-02900F5EAE88";
 metricValues = (
 {
 pos = 930;
@@ -69925,7 +69897,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "3664570B-2F06-474D-8410-56569ABB35BC";
+id = "4183FC63-456F-477E-9B65-436D843A5C2D";
 metricValues = (
 {
 pos = 930;
@@ -70021,13 +69993,13 @@ weightClass = Black;
 }
 );
 kerningLTR = {
-"3664570B-2F06-474D-8410-56569ABB35BC" = {
+"1321AD43-5B57-4768-A503-D178202AE048" = {
 };
-"452821E5-9DA0-4F55-A4C0-CD58A2FD2761" = {
+"4183FC63-456F-477E-9B65-436D843A5C2D" = {
 };
-"E64728B9-E266-466D-8B00-8DDE1D2CA3E4" = {
+"5887A550-6249-40A4-806C-FE2DD5168882" = {
 };
-"FCB1C76D-2FA9-4C34-B9A5-09CF66038F2E" = {
+"E9E527C0-D75F-4862-A19F-02900F5EAE88" = {
 };
 };
 metrics = (
@@ -70087,7 +70059,7 @@ value = "Dalton Maag Ltd, Cristiano Sobral";
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"FCB1C76D-2FA9-4C34-B9A5-09CF66038F2E" = {
+"1321AD43-5B57-4768-A503-D178202AE048" = {
 HV = 38;
 HH = 35;
 OV = 40;
@@ -70097,7 +70069,7 @@ oH = 34;
 nV = 33;
 tH = 33;
 };
-"E64728B9-E266-466D-8B00-8DDE1D2CA3E4" = {
+"5887A550-6249-40A4-806C-FE2DD5168882" = {
 HV = 94;
 HH = 82;
 OV = 96;
@@ -70107,7 +70079,7 @@ oH = 77;
 nV = 89;
 tH = 73;
 };
-"452821E5-9DA0-4F55-A4C0-CD58A2FD2761" = {
+"E9E527C0-D75F-4862-A19F-02900F5EAE88" = {
 HV = 146;
 HH = 114;
 OV = 148;
@@ -70117,7 +70089,7 @@ oH = 111;
 nV = 141;
 tH = 106;
 };
-"3664570B-2F06-474D-8410-56569ABB35BC" = {
+"4183FC63-456F-477E-9B65-436D843A5C2D" = {
 HV = 146;
 HH = 114;
 OV = 148;
@@ -70130,5 +70102,5 @@ tH = 106;
 };
 };
 versionMajor = 2;
-versionMinor = 0;
+versionMinor = 1;
 }

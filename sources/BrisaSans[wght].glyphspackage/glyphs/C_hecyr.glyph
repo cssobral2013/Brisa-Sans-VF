@@ -1,0 +1,70 @@
+{
+glyphname = Checyr;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{315, 477}";
+}
+);
+layerId = "BC1C0262-B179-41F2-9022-DD18C3300059";
+shapes = (
+{
+alignment = -1;
+ref = Hturned;
+}
+);
+width = 656;
+},
+{
+anchors = (
+{
+name = top;
+position = "{302, 477}";
+}
+);
+layerId = "022C621B-D9C5-4075-856F-99776A9BB9BC";
+shapes = (
+{
+alignment = -1;
+ref = Hturned;
+}
+);
+width = 639;
+},
+{
+anchors = (
+{
+name = top;
+position = "{283, 477}";
+}
+);
+layerId = "F46EB350-572D-40B6-8F96-70923BCB3D86";
+shapes = (
+{
+alignment = -1;
+ref = Hturned;
+}
+);
+width = 613;
+},
+{
+anchors = (
+{
+name = top;
+position = "{280, 477}";
+}
+);
+layerId = "7900522D-7321-4A46-8482-E4D00C1490A1";
+shapes = (
+{
+alignment = -1;
+ref = Hturned;
+}
+);
+width = 607;
+}
+);
+unicode = 1063;
+}
