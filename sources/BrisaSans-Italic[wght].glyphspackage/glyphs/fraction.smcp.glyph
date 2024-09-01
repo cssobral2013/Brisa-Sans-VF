@@ -1,0 +1,65 @@
+{
+glyphname = fraction.smcp;
+layers = (
+{
+layerId = "3664570B-2F06-474D-8410-56569ABB35BC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-56,0,l),
+(-196,0,l),
+(185,555,l),
+(325,555,l)
+);
+}
+);
+width = 131;
+},
+{
+layerId = "452821E5-9DA0-4F55-A4C0-CD58A2FD2761";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-81,0,l),
+(-196,0,l),
+(186.9,555,l),
+(301.9,555,l)
+);
+}
+);
+width = 107;
+},
+{
+layerId = "E64728B9-E266-466D-8B00-8DDE1D2CA3E4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-118,0,l),
+(-196,0,l),
+(190,555,l),
+(268,555,l)
+);
+}
+);
+width = 73;
+},
+{
+layerId = "FCB1C76D-2FA9-4C34-B9A5-09CF66038F2E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-156,0,l),
+(-196,0,l),
+(196.9,555,l),
+(236.9,555,l)
+);
+}
+);
+width = 42;
+}
+);
+}

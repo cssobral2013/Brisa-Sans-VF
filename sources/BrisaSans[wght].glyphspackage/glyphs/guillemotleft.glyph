@@ -1,0 +1,81 @@
+{
+glyphname = guillemotleft;
+layers = (
+{
+layerId = "B6DF85F1-EBFC-49D5-83CF-7D86C417AD4B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(330,51,l),
+(157,51,l),
+(23,226,l),
+(23,290,l),
+(157,465,l),
+(330,465,l),
+(179,258,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(591,51,l),
+(418,51,l),
+(284,226,l),
+(284,290,l),
+(418,465,l),
+(591,465,l),
+(440,258,l)
+);
+}
+);
+width = 614;
+},
+{
+layerId = "D243B678-AA35-4622-BFB2-DA5F5B4AAB22";
+shapes = (
+{
+alignment = -1;
+ref = guilsinglleft;
+},
+{
+alignment = -1;
+pos = (240,0);
+ref = guilsinglleft;
+}
+);
+width = 589;
+},
+{
+layerId = "7D45EC82-E8BB-4AC3-AEF4-676BB722768B";
+shapes = (
+{
+alignment = -1;
+ref = guilsinglleft;
+},
+{
+alignment = -1;
+pos = (209,0);
+ref = guilsinglleft;
+}
+);
+width = 552;
+},
+{
+layerId = "0550E5A5-F26C-45AF-9FA2-5FA21B0BB434";
+shapes = (
+{
+alignment = -1;
+ref = guilsinglleft;
+},
+{
+alignment = -1;
+pos = (184,0);
+ref = guilsinglleft;
+}
+);
+width = 497;
+}
+);
+unicode = 171;
+}

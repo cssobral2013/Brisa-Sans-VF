@@ -1,0 +1,178 @@
+{
+glyphname = a.smcp;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{338, 497}";
+},
+{
+name = bottom;
+position = "{239, 0}";
+}
+);
+layerId = "3664570B-2F06-474D-8410-56569ABB35BC";
+shapes = (
+{
+closed = 1;
+nodes = (
+(529,0,l),
+(359,0,l),
+(344.578,123,l),
+(178.578,123,l),
+(118,0,l),
+(-50,0,l),
+(264.9,555,l),
+(435.9,555,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(333.157,236,l),
+(316.129,396,l),
+(236.157,236,l)
+);
+}
+);
+width = 591;
+},
+{
+anchors = (
+{
+name = top;
+position = "{326, 497}";
+},
+{
+name = Anchor_7;
+position = "{332, 537}";
+},
+{
+name = Anchor_10;
+position = "{338, 517}";
+},
+{
+name = bottom;
+position = "{227, 0}";
+}
+);
+layerId = "452821E5-9DA0-4F55-A4C0-CD58A2FD2761";
+shapes = (
+{
+closed = 1;
+nodes = (
+(504,0,l),
+(364,0,l),
+(344.375,137,l),
+(160.375,137,l),
+(88,0,l),
+(-49,0,l),
+(271.9,555,l),
+(404.9,555,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(331.958,235,l),
+(307.725,414,l),
+(212.958,235,l)
+);
+}
+);
+width = 567;
+},
+{
+anchors = (
+{
+name = top;
+position = "{308, 497}";
+},
+{
+name = Anchor_5;
+position = "{314, 537}";
+},
+{
+name = Anchor_8;
+position = "{320, 517}";
+},
+{
+name = bottom;
+position = "{209, 0}";
+}
+);
+layerId = "E64728B9-E266-466D-8B00-8DDE1D2CA3E4";
+shapes = (
+{
+closed = 1;
+nodes = (
+(467,0,l),
+(372,0,l),
+(344,158,l),
+(134,158,l),
+(43,0,l),
+(-48,0,l),
+(282,555,l),
+(359,555,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(330,234,l),
+(295,441,l),
+(178,234,l)
+);
+}
+);
+width = 531;
+},
+{
+anchors = (
+{
+name = top;
+position = "{292, 497}";
+},
+{
+name = Anchor_6;
+position = "{300, 537}";
+},
+{
+name = Anchor_9;
+position = "{291, 517}";
+},
+{
+name = bottom;
+position = "{193, 0}";
+}
+);
+layerId = "FCB1C76D-2FA9-4C34-B9A5-09CF66038F2E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(435,0,l),
+(395,0,l),
+(359.768,179,l),
+(97.768,179,l),
+(-7,0,l),
+(-47,0,l),
+(286.9,555,l),
+(321.9,555,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(353.562,213,l),
+(295.308,512,l),
+(118.562,213,l)
+);
+}
+);
+width = 500;
+}
+);
+unicode = 62981;
+}

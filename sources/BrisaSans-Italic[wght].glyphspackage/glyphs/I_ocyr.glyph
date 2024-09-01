@@ -1,0 +1,76 @@
+{
+glyphname = Iocyr;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{259, 0}";
+},
+{
+name = hook;
+position = "{350, 457}";
+}
+);
+layerId = "3664570B-2F06-474D-8410-56569ABB35BC";
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (315,0);
+ref = dieresiscomb.cap;
+}
+);
+width = 587;
+},
+{
+layerId = "452821E5-9DA0-4F55-A4C0-CD58A2FD2761";
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (313,0);
+ref = dieresiscomb.cap;
+}
+);
+width = 583;
+},
+{
+layerId = "E64728B9-E266-466D-8B00-8DDE1D2CA3E4";
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (310,0);
+ref = dieresiscomb.cap;
+}
+);
+width = 577;
+},
+{
+layerId = "FCB1C76D-2FA9-4C34-B9A5-09CF66038F2E";
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (310,0);
+ref = dieresiscomb.cap;
+}
+);
+width = 566;
+}
+);
+unicode = 1025;
+}

@@ -1,0 +1,76 @@
+{
+glyphname = ntilde;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{313, 0}";
+},
+{
+name = hook;
+position = "{295, 457}";
+}
+);
+layerId = "B6DF85F1-EBFC-49D5-83CF-7D86C417AD4B";
+shapes = (
+{
+alignment = -1;
+ref = n;
+},
+{
+alignment = -1;
+pos = (295,0);
+ref = tildecomb;
+}
+);
+width = 590;
+},
+{
+layerId = "D243B678-AA35-4622-BFB2-DA5F5B4AAB22";
+shapes = (
+{
+alignment = -1;
+ref = n;
+},
+{
+alignment = -1;
+pos = (295,0);
+ref = tildecomb;
+}
+);
+width = 585;
+},
+{
+layerId = "7D45EC82-E8BB-4AC3-AEF4-676BB722768B";
+shapes = (
+{
+alignment = -1;
+ref = n;
+},
+{
+alignment = -1;
+pos = (295,0);
+ref = tildecomb;
+}
+);
+width = 577;
+},
+{
+layerId = "0550E5A5-F26C-45AF-9FA2-5FA21B0BB434";
+shapes = (
+{
+alignment = -1;
+ref = n;
+},
+{
+alignment = -1;
+pos = (282,0);
+ref = tildecomb;
+}
+);
+width = 562;
+}
+);
+unicode = 241;
+}

@@ -1,0 +1,162 @@
+@font-face {
+    font-family: 'Brisa Sans';
+    src: url('web/BrisaSans-Thin.woff2') format('woff2'),
+        url('web/BrisaSans-Thin.woff') format('woff'),
+        url('ttf/BrisaSans-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Brisa Sans';
+    src: url('web/BrisaSans-ThinItalic.woff2') format('woff2'),
+        url('web/BrisaSans-ThinItalic.woff') format('woff'),
+        url('ttf/BrisaSans-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: 'Brisa Sans';
+    src: url('web/BrisaSans-ExtraLight.woff2') format('woff2'),
+        url('web/BrisaSans-ExtraLight.woff') format('woff'),
+        url('ttf/BrisaSans-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brisa Sans';
+    src: url('web/BrisaSans-ExtraLightItalic.woff2') format('woff2'),
+        url('web/BrisaSans-ExtraLightItalic.woff') format('woff'),
+        url('ttf/BrisaSans-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brisa Sans';
+    src: url('web/BrisaSans-Light.woff2') format('woff2'),
+        url('web/BrisaSans-Light.woff') format('woff'),
+        url('ttf/BrisaSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brisa Sans';
+    src: url('web/BrisaSans-LightItalic.woff2') format('woff2'),
+        url('web/BrisaSans-LightItalic.woff') format('woff'),
+        url('ttf/BrisaSans-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brisa Sans';
+    src: url('web/BrisaSans-Regular.woff2') format('woff2'),
+        url('web/BrisaSans-Regular.woff') format('woff'),
+        url('ttf/BrisaSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brisa Sans';
+    src: url('web/BrisaSans-Italic.woff2') format('woff2'),
+        url('web/BrisaSans-Italic.woff') format('woff'),
+        url('ttf/BrisaSans-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brisa Sans';
+    src: url('web/BrisaSans-Medium.woff2') format('woff2'),
+        url('web/BrisaSans-Medium.woff') format('woff'),
+        url('ttf/BrisaSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Brisa Sans';
+    src: url('web/BrisaSans-MediumItalic.woff2') format('woff2'),
+        url('web/BrisaSans-MediumItalic.woff') format('woff'),
+        url('ttf/BrisaSans-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brisa Sans';
+    src: url('web/BrisaSans-SemiBold.woff2') format('woff2'),
+        url('web/BrisaSans-SemiBold.woff') format('woff'),
+        url('ttf/BrisaSans-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brisa Sans';
+    src: url('web/BrisaSans-SemiBoldItalic.woff2') format('woff2'),
+        url('web/BrisaSans-SemiBoldItalic.woff') format('woff'),
+        url('ttf/BrisaSans-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brisa Sans';
+    src: url('web/BrisaSans-Bold.woff2') format('woff2'),
+        url('web/BrisaSans-Bold.woff') format('woff'),
+        url('ttf/BrisaSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brisa Sans';
+    src: url('web/BrisaSans-BoldItalic.woff2') format('woff2'),
+        url('web/BrisaSans-BoldItalic.woff') format('woff'),
+        url('ttf/BrisaSans-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brisa Sans';
+    src: url('web/BrisaSans-ExtraBold.woff2') format('woff2'),
+        url('web/BrisaSans-ExtraBold.woff') format('woff'),
+        url('ttf/BrisaSans-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brisa Sans';
+    src: url('web/BrisaSans-ExtraBoldItalic.woff2') format('woff2'),
+        url('web/BrisaSans-ExtraBoldItalic.woff') format('woff'),
+        url('ttf/BrisaSans-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brisa Sans';
+    src: url('web/BrisaSans-Black.woff2') format('woff2'),
+        url('web/BrisaSans-Black.woff') format('woff'),
+        url('ttf/BrisaSans-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brisa Sans';
+    src: url('web/BrisaSans-BlackItalic.woff2') format('woff2'),
+        url('web/BrisaSans-BlackItalic.woff') format('woff'),
+        url('ttf/BrisaSans-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}

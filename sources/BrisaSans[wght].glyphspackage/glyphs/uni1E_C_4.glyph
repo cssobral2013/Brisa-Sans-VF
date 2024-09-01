@@ -1,0 +1,66 @@
+{
+glyphname = uni1EC4;
+layers = (
+{
+layerId = "B6DF85F1-EBFC-49D5-83CF-7D86C417AD4B";
+shapes = (
+{
+alignment = -1;
+ref = E.short;
+},
+{
+alignment = -1;
+pos = (315,0);
+ref = uni0302_tildecomb.cap;
+}
+);
+width = 580;
+},
+{
+layerId = "D243B678-AA35-4622-BFB2-DA5F5B4AAB22";
+shapes = (
+{
+alignment = -1;
+ref = E.short;
+},
+{
+alignment = -1;
+pos = (313,0);
+ref = uni0302_tildecomb.cap;
+}
+);
+width = 579;
+},
+{
+layerId = "7D45EC82-E8BB-4AC3-AEF4-676BB722768B";
+shapes = (
+{
+alignment = -1;
+ref = E.short;
+},
+{
+alignment = -1;
+pos = (310,0);
+ref = uni0302_tildecomb.cap;
+}
+);
+width = 577;
+},
+{
+layerId = "0550E5A5-F26C-45AF-9FA2-5FA21B0BB434";
+shapes = (
+{
+alignment = -1;
+ref = E.short;
+},
+{
+alignment = -1;
+pos = (310,0);
+ref = uni0302_tildecomb.cap;
+}
+);
+width = 566;
+}
+);
+unicode = 7876;
+}

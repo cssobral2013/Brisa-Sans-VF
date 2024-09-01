@@ -1,0 +1,84 @@
+{
+glyphname = Ldot;
+layers = (
+{
+anchors = (
+{
+name = _hook;
+position = "{400, 43}";
+},
+{
+name = bottom;
+position = "{253, 0}";
+},
+{
+name = caronslovak;
+position = "{482, 477}";
+},
+{
+name = top;
+position = "{189, 477}";
+}
+);
+layerId = "3664570B-2F06-474D-8410-56569ABB35BC";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (364,-414);
+ref = dotaccentcomb.cap;
+}
+);
+width = 564;
+},
+{
+layerId = "452821E5-9DA0-4F55-A4C0-CD58A2FD2761";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (342,-428);
+ref = dotaccentcomb.cap;
+}
+);
+width = 555;
+},
+{
+layerId = "E64728B9-E266-466D-8B00-8DDE1D2CA3E4";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (310,-449);
+ref = dotaccentcomb.cap;
+}
+);
+width = 542;
+},
+{
+layerId = "FCB1C76D-2FA9-4C34-B9A5-09CF66038F2E";
+shapes = (
+{
+alignment = -1;
+ref = L;
+},
+{
+alignment = -1;
+pos = (292,-453);
+ref = dotaccentcomb.cap;
+}
+);
+width = 526;
+}
+);
+unicode = 319;
+}

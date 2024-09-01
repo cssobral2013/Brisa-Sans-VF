@@ -1,0 +1,76 @@
+{
+glyphname = ygrave.smcp;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{220, 0}";
+},
+{
+name = top;
+position = "{319, 497}";
+}
+);
+layerId = "3664570B-2F06-474D-8410-56569ABB35BC";
+shapes = (
+{
+alignment = -1;
+ref = y.smcp;
+},
+{
+alignment = -1;
+pos = (276,0);
+ref = gravecomb.smcp;
+}
+);
+width = 550;
+},
+{
+layerId = "452821E5-9DA0-4F55-A4C0-CD58A2FD2761";
+shapes = (
+{
+alignment = -1;
+ref = y.smcp;
+},
+{
+alignment = -1;
+pos = (264,0);
+ref = gravecomb.smcp;
+}
+);
+width = 527;
+},
+{
+layerId = "E64728B9-E266-466D-8B00-8DDE1D2CA3E4";
+shapes = (
+{
+alignment = -1;
+ref = y.smcp;
+},
+{
+alignment = -1;
+pos = (246,0);
+ref = gravecomb.smcp;
+}
+);
+width = 492;
+},
+{
+layerId = "FCB1C76D-2FA9-4C34-B9A5-09CF66038F2E";
+shapes = (
+{
+alignment = -1;
+ref = y.smcp;
+},
+{
+alignment = -1;
+pos = (215,0);
+ref = gravecomb.smcp;
+}
+);
+width = 454;
+}
+);
+unicode = 63126;
+}

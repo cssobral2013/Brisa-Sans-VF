@@ -1,0 +1,134 @@
+{
+glyphname = l;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{140, 477}";
+},
+{
+name = bottom;
+position = "{140, 0}";
+},
+{
+name = caronslovak;
+position = "{371, 517}";
+}
+);
+layerId = "B6DF85F1-EBFC-49D5-83CF-7D86C417AD4B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(228,0,l),
+(53,0,l),
+(53,738,l),
+(228,753,l)
+);
+}
+);
+width = 281;
+},
+{
+anchors = (
+{
+name = top;
+position = "{134, 477}";
+},
+{
+name = Anchor_7;
+position = "{134, 677}";
+},
+{
+name = bottom;
+position = "{134, 0}";
+},
+{
+name = caronslovak;
+position = "{344, 517}";
+}
+);
+layerId = "D243B678-AA35-4622-BFB2-DA5F5B4AAB22";
+shapes = (
+{
+closed = 1;
+nodes = (
+(205,0,l),
+(64,0,l),
+(64,741,l),
+(205,753,l)
+);
+}
+);
+width = 269;
+},
+{
+anchors = (
+{
+name = top;
+position = "{125, 477}";
+},
+{
+name = Anchor_5;
+position = "{125, 674}";
+},
+{
+name = bottom;
+position = "{125, 0}";
+},
+{
+name = caronslovak;
+position = "{304, 517}";
+}
+);
+layerId = "7D45EC82-E8BB-4AC3-AEF4-676BB722768B";
+shapes = (
+{
+closed = 1;
+nodes = (
+(170,0,l),
+(81,0,l),
+(81,745,l),
+(170,753,l)
+);
+}
+);
+width = 251;
+},
+{
+anchors = (
+{
+name = top;
+position = "{111, 477}";
+},
+{
+name = Anchor_6;
+position = "{111, 677}";
+},
+{
+name = bottom;
+position = "{111, 0}";
+},
+{
+name = caronslovak;
+position = "{239, 517}";
+}
+);
+layerId = "0550E5A5-F26C-45AF-9FA2-5FA21B0BB434";
+shapes = (
+{
+closed = 1;
+nodes = (
+(129,0,l),
+(93,0,l),
+(93,749,l),
+(129,753,l)
+);
+}
+);
+width = 222;
+}
+);
+unicode = 108;
+}

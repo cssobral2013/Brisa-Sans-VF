@@ -1,0 +1,76 @@
+{
+glyphname = racute.smcp;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{288, 0}";
+},
+{
+name = top;
+position = "{243, 497}";
+}
+);
+layerId = "B6DF85F1-EBFC-49D5-83CF-7D86C417AD4B";
+shapes = (
+{
+alignment = -1;
+ref = r.smcp;
+},
+{
+alignment = -1;
+pos = (252,0);
+ref = acutecomb.smcp;
+}
+);
+width = 539;
+},
+{
+layerId = "D243B678-AA35-4622-BFB2-DA5F5B4AAB22";
+shapes = (
+{
+alignment = -1;
+ref = r.smcp;
+},
+{
+alignment = -1;
+pos = (252,0);
+ref = acutecomb.smcp;
+}
+);
+width = 527;
+},
+{
+layerId = "7D45EC82-E8BB-4AC3-AEF4-676BB722768B";
+shapes = (
+{
+alignment = -1;
+ref = r.smcp;
+},
+{
+alignment = -1;
+pos = (252,0);
+ref = acutecomb.smcp;
+}
+);
+width = 509;
+},
+{
+layerId = "0550E5A5-F26C-45AF-9FA2-5FA21B0BB434";
+shapes = (
+{
+alignment = -1;
+ref = r.smcp;
+},
+{
+alignment = -1;
+pos = (271,0);
+ref = acutecomb.smcp;
+}
+);
+width = 493;
+}
+);
+unicode = 63101;
+}

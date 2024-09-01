@@ -1,0 +1,96 @@
+{
+glyphname = Ylongdieresiscyr;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{695, 0}";
+},
+{
+name = hook;
+position = "{786, 457}";
+}
+);
+layerId = "3664570B-2F06-474D-8410-56569ABB35BC";
+shapes = (
+{
+alignment = -1;
+ref = Softcyr;
+},
+{
+alignment = -1;
+pos = (598,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (450,0);
+ref = dieresiscomb.cap;
+}
+);
+width = 901;
+},
+{
+layerId = "452821E5-9DA0-4F55-A4C0-CD58A2FD2761";
+shapes = (
+{
+alignment = -1;
+ref = Softcyr;
+},
+{
+alignment = -1;
+pos = (591,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (442,0);
+ref = dieresiscomb.cap;
+}
+);
+width = 885;
+},
+{
+layerId = "E64728B9-E266-466D-8B00-8DDE1D2CA3E4";
+shapes = (
+{
+alignment = -1;
+ref = Softcyr;
+},
+{
+alignment = -1;
+pos = (580,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (430,0);
+ref = dieresiscomb.cap;
+}
+);
+width = 861;
+},
+{
+layerId = "FCB1C76D-2FA9-4C34-B9A5-09CF66038F2E";
+shapes = (
+{
+alignment = -1;
+ref = Softcyr;
+},
+{
+alignment = -1;
+pos = (571,0);
+ref = I;
+},
+{
+alignment = -1;
+pos = (411,0);
+ref = dieresiscomb.cap;
+}
+);
+width = 823;
+}
+);
+unicode = 1272;
+}

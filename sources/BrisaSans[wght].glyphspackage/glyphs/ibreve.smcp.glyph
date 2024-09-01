@@ -1,0 +1,76 @@
+{
+glyphname = ibreve.smcp;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{144, 0}";
+},
+{
+name = hook;
+position = "{144, 477}";
+}
+);
+layerId = "B6DF85F1-EBFC-49D5-83CF-7D86C417AD4B";
+shapes = (
+{
+alignment = -1;
+ref = i.smcp;
+},
+{
+alignment = -1;
+pos = (144,20);
+ref = uni0306;
+}
+);
+width = 288;
+},
+{
+layerId = "D243B678-AA35-4622-BFB2-DA5F5B4AAB22";
+shapes = (
+{
+alignment = -1;
+ref = i.smcp;
+},
+{
+alignment = -1;
+pos = (138,20);
+ref = uni0306;
+}
+);
+width = 276;
+},
+{
+layerId = "7D45EC82-E8BB-4AC3-AEF4-676BB722768B";
+shapes = (
+{
+alignment = -1;
+ref = i.smcp;
+},
+{
+alignment = -1;
+pos = (129,20);
+ref = uni0306;
+}
+);
+width = 258;
+},
+{
+layerId = "0550E5A5-F26C-45AF-9FA2-5FA21B0BB434";
+shapes = (
+{
+alignment = -1;
+ref = i.smcp;
+},
+{
+alignment = -1;
+pos = (114,20);
+ref = uni0306;
+}
+);
+width = 229;
+}
+);
+unicode = 63081;
+}

@@ -1,0 +1,80 @@
+{
+glyphname = nacute.smcp;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{288, 0}";
+},
+{
+name = hook;
+position = "{299, 477}";
+},
+{
+name = top;
+position = "{299, 497}";
+}
+);
+layerId = "B6DF85F1-EBFC-49D5-83CF-7D86C417AD4B";
+shapes = (
+{
+alignment = -1;
+ref = n.smcp;
+},
+{
+alignment = -1;
+pos = (319,0);
+ref = acutecomb.smcp;
+}
+);
+width = 597;
+},
+{
+layerId = "D243B678-AA35-4622-BFB2-DA5F5B4AAB22";
+shapes = (
+{
+alignment = -1;
+ref = n.smcp;
+},
+{
+alignment = -1;
+pos = (317,0);
+ref = acutecomb.smcp;
+}
+);
+width = 594;
+},
+{
+layerId = "7D45EC82-E8BB-4AC3-AEF4-676BB722768B";
+shapes = (
+{
+alignment = -1;
+ref = n.smcp;
+},
+{
+alignment = -1;
+pos = (314,0);
+ref = acutecomb.smcp;
+}
+);
+width = 589;
+},
+{
+layerId = "0550E5A5-F26C-45AF-9FA2-5FA21B0BB434";
+shapes = (
+{
+alignment = -1;
+ref = n.smcp;
+},
+{
+alignment = -1;
+pos = (312,0);
+ref = acutecomb.smcp;
+}
+);
+width = 586;
+}
+);
+unicode = 63088;
+}
