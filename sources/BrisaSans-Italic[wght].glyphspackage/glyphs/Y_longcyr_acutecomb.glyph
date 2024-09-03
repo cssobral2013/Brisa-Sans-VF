@@ -1,0 +1,89 @@
+{
+glyphname = Ylongcyr_acutecomb;
+layers = (
+{
+anchors = (
+{
+name = top;
+position = "{450, 477}";
+}
+);
+layerId = "8D3EB4C1-6EEE-43FB-8DDE-90F41862F4B3";
+shapes = (
+{
+alignment = -1;
+ref = Ylongcyr;
+},
+{
+alignment = -1;
+pos = (451,0);
+ref = acutecomb.cap;
+}
+);
+width = 901;
+},
+{
+anchors = (
+{
+name = top;
+position = "{442, 477}";
+}
+);
+layerId = "1EF0794B-345E-4E92-BB90-FDAF9EB84F98";
+shapes = (
+{
+alignment = -1;
+ref = Ylongcyr;
+},
+{
+alignment = -1;
+pos = (455,0);
+ref = acutecomb.cap;
+}
+);
+width = 885;
+},
+{
+anchors = (
+{
+name = top;
+position = "{430, 477}";
+}
+);
+layerId = "8BE48380-DCD1-4C25-918E-D8F452C40939";
+shapes = (
+{
+alignment = -1;
+ref = Ylongcyr;
+},
+{
+alignment = -1;
+pos = (443,0);
+ref = acutecomb.cap;
+}
+);
+width = 861;
+},
+{
+anchors = (
+{
+name = top;
+position = "{411, 477}";
+}
+);
+layerId = "7825C6D3-92E0-4D36-83E5-F278C36F463D";
+shapes = (
+{
+alignment = -1;
+ref = Ylongcyr;
+},
+{
+alignment = -1;
+pos = (424,0);
+ref = acutecomb.cap;
+}
+);
+width = 823;
+}
+);
+}

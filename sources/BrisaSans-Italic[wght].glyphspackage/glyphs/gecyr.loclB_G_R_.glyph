@@ -4,17 +4,7 @@ leftMetricsKey = "=26";
 rightMetricsKey = "=27";
 layers = (
 {
-anchors = (
-{
-name = top;
-position = "{283, 477}";
-},
-{
-name = bottom;
-position = "{184, 0}";
-}
-);
-layerId = "4183FC63-456F-477E-9B65-436D843A5C2D";
+layerId = "8D3EB4C1-6EEE-43FB-8DDE-90F41862F4B3";
 shapes = (
 {
 closed = 1;
@@ -63,21 +53,7 @@ nodes = (
 width = 489;
 },
 {
-anchors = (
-{
-name = Anchor_7;
-position = "{265, 517}";
-},
-{
-name = top;
-position = "{282, 477}";
-},
-{
-name = bottom;
-position = "{176, 0}";
-}
-);
-layerId = "E9E527C0-D75F-4862-A19F-02900F5EAE88";
+layerId = "1EF0794B-345E-4E92-BB90-FDAF9EB84F98";
 leftMetricsKey = "=32";
 rightMetricsKey = "=32";
 shapes = (
@@ -128,21 +104,7 @@ nodes = (
 width = 480;
 },
 {
-anchors = (
-{
-name = Anchor_5;
-position = "{250, 517}";
-},
-{
-name = top;
-position = "{277, 477}";
-},
-{
-name = bottom;
-position = "{161, 0}";
-}
-);
-layerId = "5887A550-6249-40A4-806C-FE2DD5168882";
+layerId = "8BE48380-DCD1-4C25-918E-D8F452C40939";
 leftMetricsKey = "=40";
 rightMetricsKey = "=40";
 shapes = (
@@ -193,21 +155,7 @@ nodes = (
 width = 466;
 },
 {
-anchors = (
-{
-name = Anchor_6;
-position = "{217, 517}";
-},
-{
-name = top;
-position = "{266, 477}";
-},
-{
-name = bottom;
-position = "{157, 0}";
-}
-);
-layerId = "1321AD43-5B57-4768-A503-D178202AE048";
+layerId = "7825C6D3-92E0-4D36-83E5-F278C36F463D";
 leftMetricsKey = "=46";
 rightMetricsKey = "=46";
 shapes = (

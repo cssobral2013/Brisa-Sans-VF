@@ -16,11 +16,11 @@ code = "question.smcp exclam.smcp questiondown.smcp exclamdown.smcp zero.inferio
 name = c2sc2;
 },
 {
-code = "questiondown exclamdown hyphen endash emdash parenleft parenright slash backslash bracketleft bracketright braceleft braceright bullet guilsinglleft guilsinglright guillemotleft guillemotright at";
+code = "questiondown exclamdown hyphen endash emdash parenleft parenright slash backslash bracketleft bracketright braceleft braceright bullet guilsinglleft guilsinglright guillemotleft guillemotright at cedillacomb ogonekcomb acutecomb hungarumlautcomb gravecomb circumflexcomb tildecomb caroncomb macroncomb macroncomb.narrow dieresiscomb dieresiscomb.narrow brevecomb dotaccentcomb hookabovecomb dotbelowcomb commaaccentcomb ringcomb circumflexcomb_acutecomb circumflexcomb_gravecomb circumflexcomb_hookabovecomb circumflexcomb_tildecomb brevecomb_acutecomb brevecomb_gravecomb brevecomb_hookabovecomb brevecomb_tildecomb dotaccentcomb_gravecomb dotaccentcomb_acutecomb dotaccentcomb_tildecomb macroncomb_acutecomb macroncomb_tildecomb brevecomb.cyrl acutecomb.grek";
 name = case;
 },
 {
-code = "questiondown.case exclamdown.case hyphen.case endash.case emdash.case parenleft.case parenright.case slash.case backslash.case bracketleft.case bracketright.case braceleft.case braceright.case bullet.case guilsinglleft.case guilsinglright.case guillemotleft.case guillemotright.case at.case";
+code = "questiondown.case exclamdown.case hyphen.case endash.case emdash.case parenleft.case parenright.case slash.case backslash.case bracketleft.case bracketright.case braceleft.case braceright.case bullet.case guilsinglleft.case guilsinglright.case guillemotleft.case guillemotright.case at.case cedillacomb.cap ogonekcomb.cap acutecomb.cap hungarumlautcomb.cap gravecomb.cap circumflexcomb.cap tildecomb.cap caroncomb.cap macroncomb.cap macroncomb.narrow.cap dieresiscomb.cap dieresiscomb.narrow.cap brevecomb.cap dotaccentcomb.cap hookabovecomb.cap dotbelowcomb.cap commaaccentcomb.cap ringcomb.cap circumflexcomb_acutecomb.cap circumflexcomb_gravecomb.cap circumflexcomb_hookabovecomb.cap circumflexcomb_tildecomb.cap brevecomb_acutecomb.cap brevecomb_gravecomb.cap brevecomb_hookabovecomb.cap brevecomb_tildecomb.cap dotaccentcomb_gravecomb.cap dotaccentcomb_acutecomb.cap dotaccentcomb_tildecomb.cap macroncomb_acutecomb.cap macroncomb_tildecomb.cap brevecomb.cyrl.cap acutecomb.grek.cap";
 name = case2;
 },
 {
@@ -120,12 +120,20 @@ code = "zero one two three four five six seven eight nine zero.alt one.alt two.a
 name = calt;
 },
 {
+code = "Elcyr Decyr kacyr zhecyr pecyr tecyr icyr ishortcyr igravecyr shacyr shchacyr tsecyr decyr vecyr gecyr softcyr hardcyr elcyr zecyr yucyr";
+name = loclBGR;
+},
+{
 code = "Elcyr.loclBGR Decyr.loclBGR kacyr.loclBGR zhecyr.loclBGR pecyr.loclBGR tecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR igravecyr.loclBGR shacyr.loclBGR shchacyr.loclBGR tsecyr.loclBGR decyr.loclBGR vecyr.loclBGR gecyr.loclBGR softcyr.loclBGR hardcyr.loclBGR elcyr.loclBGR zecyr.loclBGR yucyr.loclBGR";
 name = loclBGR2;
 },
 {
-code = "Elcyr Decyr kacyr zhecyr pecyr tecyr icyr ishortcyr igravecyr shacyr shchacyr tsecyr decyr vecyr gecyr softcyr hardcyr elcyr zecyr yucyr";
-name = loclBGR;
+code = "Acyr Iecyr Icyr Ocyr Ucyr Ylongcyr Yucyr Yacyr Iocyr Iukrcyr Eukrcyr Semisoftcyr acyr iecyr icyr ocyr ucyr ylongcyr yucyr yacyr iocyr iukrcyr eukrcyr semisoftcyr";
+name = liga3;
+},
+{
+code = "grave acute gravecomb acutecomb gravecomb.cap acutecomb.cap";
+name = liga31;
 }
 );
 familyName = "Brisa Sans";
@@ -1479,7 +1487,31 @@ yucyr.loclBGR,
 idieresis.calt,
 idieresis.calt2,
 Idieresis.calt,
-Idieresis.calt2
+Idieresis.calt2,
+Acyr_acutecomb,
+Iecyr_acutecomb,
+Icyr_acutecomb,
+Ocyr_acutecomb,
+Ucyr_acutecomb,
+Ylongcyr_acutecomb,
+Yucyr_acutecomb,
+Yacyr_acutecomb,
+Iocyr_acutecomb,
+Iukrcyr_acutecomb,
+Eukrcyr_acutecomb,
+acyr_acutecomb,
+iecyr_acutecomb,
+icyr_acutecomb,
+ocyr_acutecomb,
+ucyr_acutecomb,
+ylongcyr_acutecomb,
+yucyr_acutecomb,
+yacyr_acutecomb,
+iocyr_acutecomb,
+iukrcyr_acutecomb,
+eukrcyr_acutecomb,
+Semisoftcyr_acutecomb,
+semisoftcyr_acutecomb
 );
 },
 {
@@ -1497,8 +1529,8 @@ code = "#> classes
 #/> otclasses
 @c2sc = [question exclam questiondown exclamdown zero.inferior fraction percent perthousand dollar cent sterling yen dong tenge indianrupee tugrik peso guarani hryvnia cedi turkishlira newsheqel colonmonetary kip euroarchaic cruzeiro rupee florin.crcy parenleft parenright slash backslash bracketleft bracketright braceleft braceright ampersand asterisk a b c d e f g h i j k l m n o p q r s t u v w x y z quoteleft quoteright quotedblleft quotedblright quotereversed quotedblreversed dotlessi ij ldot thorn ae oe germandbls eng eth dcroat hbar istroke obarred ubar tbar lslash oslash ccedilla hcedilla scedilla tcedilla aogonek eogonek iogonek uogonek acutecomb hungarumlautcomb aacute cacute eacute gacute iacute lacute macute nacute oacute racute sacute uacute wacute yacute zacute aeacute oslashacute ohungarumlaut uhungarumlaut gravecomb agrave egrave igrave ograve ugrave wgrave ygrave acircumflex ccircumflex ecircumflex gcircumflex hcircumflex icircumflex jcircumflex ocircumflex scircumflex ucircumflex wcircumflex ycircumflex atilde etilde itilde ntilde otilde utilde ytilde acaron ccaron dcaron ecaron gcaron icaron lcaron ncaron ocaron rcaron scaron tcaron ucaron zcaron amacron emacron imacron omacron umacron adieresis edieresis idieresis odieresis udieresis wdieresis ydieresis abreve ebreve gbreve ibreve obreve ubreve edotaccent cdotaccent gdotaccent ndot zdotaccent adotbelow edotbelow idotbelow odotbelow sdotbelow udotbelow ydotbelow dcedilla gcommaaccent kcommaaccent lcommaaccent ncommaaccent rcommaaccent scommaaccent tcommaaccent aring uring aringacute at zero one two three four five six seven eight nine zero.alt one.alt two.alt three.alt four.alt five.alt six.alt seven.alt eight.alt nine.alt Germandbls];
 @c2sc2 = [question.smcp exclam.smcp questiondown.smcp exclamdown.smcp zero.inferior.smcp fraction.smcp percent.smcp perthousand.smcp dollar.smcp cent.smcp sterling.smcp yen.smcp dong.smcp tenge.smcp indianrupee.smcp tugrik.smcp peso.smcp guarani.smcp hryvnia.smcp cedi.smcp turkishlira.smcp newsheqel.smcp colonmonetary.smcp kip.smcp euroarchaic.smcp cruzeiro.smcp rupee.smcp florin.crcy.smcp parenleft.smcp parenright.smcp slash.smcp backslash.smcp bracketleft.smcp bracketright.smcp braceleft.smcp braceright.smcp ampersand.smcp asterisk.smcp a.smcp b.smcp c.smcp d.smcp e.smcp f.smcp g.smcp h.smcp i.smcp j.smcp k.smcp l.smcp m.smcp n.smcp o.smcp p.smcp q.smcp r.smcp s.smcp t.smcp u.smcp v.smcp w.smcp x.smcp y.smcp z.smcp quoteleft.smcp quoteright.smcp quotedblleft.smcp quotedblright.smcp quotereversed.smcp quotedblreversed.smcp dotlessi.smcp ij.smcp ldot.smcp thorn.smcp ae.smcp oe.smcp germandbls.smcp eng.smcp eth.smcp dcroat.smcp hbar.smcp istroke.smcp obarred.smcp ubar.smcp tbar.smcp lslash.smcp oslash.smcp ccedilla.smcp hcedilla.smcp scedilla.smcp tcedilla.smcp aogonek.smcp eogonek.smcp iogonek.smcp uogonek.smcp acutecomb.smcp hungarumlautcomb.smcp aacute.smcp cacute.smcp eacute.smcp gacute.smcp iacute.smcp lacute.smcp macute.smcp nacute.smcp oacute.smcp racute.smcp sacute.smcp uacute.smcp wacute.smcp yacute.smcp zacute.smcp aeacute.smcp oslashacute.smcp ohungarumlaut.smcp uhungarumlaut.smcp gravecomb.smcp agrave.smcp egrave.smcp igrave.smcp ograve.smcp ugrave.smcp wgrave.smcp ygrave.smcp acircumflex.smcp ccircumflex.smcp ecircumflex.smcp gcircumflex.smcp hcircumflex.smcp icircumflex.smcp jcircumflex.smcp ocircumflex.smcp scircumflex.smcp ucircumflex.smcp wcircumflex.smcp ycircumflex.smcp atilde.smcp etilde.smcp itilde.smcp ntilde.smcp otilde.smcp utilde.smcp ytilde.smcp acaron.smcp ccaron.smcp dcaron.smcp ecaron.smcp gcaron.smcp icaron.smcp lcaron.smcp ncaron.smcp ocaron.smcp rcaron.smcp scaron.smcp tcaron.smcp ucaron.smcp zcaron.smcp amacron.smcp emacron.smcp imacron.smcp omacron.smcp umacron.smcp adieresis.smcp edieresis.smcp idieresis.smcp odieresis.smcp udieresis.smcp wdieresis.smcp ydieresis.smcp abreve.smcp ebreve.smcp gbreve.smcp ibreve.smcp obreve.smcp ubreve.smcp edotaccent.smcp cdotaccent.smcp gdotaccent.smcp ndot.smcp zdotaccent.smcp adotbelow.smcp edotbelow.smcp idotbelow.smcp odotbelow.smcp sdotbelow.smcp udotbelow.smcp ydotbelow.smcp dcedilla.smcp gcommaaccent.smcp kcommaaccent.smcp lcommaaccent.smcp ncommaaccent.smcp rcommaaccent.smcp scommaaccent.smcp tcommaaccent.smcp aring.smcp uring.smcp aringacute.smcp at.smcp zero.tscf one.tscf two.tscf three.tscf four.tscf five.tscf six.tscf seven.tscf eight.tscf nine.tscf zero.pscf one.pscf two.pscf three.pscf four.pscf five.pscf six.pscf seven.pscf eight.pscf nine.pscf Germandbls.c2sc];
-@case = [questiondown exclamdown hyphen endash emdash parenleft parenright slash backslash bracketleft bracketright braceleft braceright bullet guilsinglleft guilsinglright guillemotleft guillemotright at];
-@case2 = [questiondown.case exclamdown.case hyphen.case endash.case emdash.case parenleft.case parenright.case slash.case backslash.case bracketleft.case bracketright.case braceleft.case braceright.case bullet.case guilsinglleft.case guilsinglright.case guillemotleft.case guillemotright.case at.case];
+@case = [questiondown exclamdown hyphen endash emdash parenleft parenright slash backslash bracketleft bracketright braceleft braceright bullet guilsinglleft guilsinglright guillemotleft guillemotright at cedillacomb ogonekcomb acutecomb hungarumlautcomb gravecomb circumflexcomb tildecomb caroncomb macroncomb macroncomb.narrow dieresiscomb dieresiscomb.narrow brevecomb dotaccentcomb hookabovecomb dotbelowcomb commaaccentcomb ringcomb circumflexcomb_acutecomb circumflexcomb_gravecomb circumflexcomb_hookabovecomb circumflexcomb_tildecomb brevecomb_acutecomb brevecomb_gravecomb brevecomb_hookabovecomb brevecomb_tildecomb dotaccentcomb_gravecomb dotaccentcomb_acutecomb dotaccentcomb_tildecomb macroncomb_acutecomb macroncomb_tildecomb brevecomb.cyrl acutecomb.grek];
+@case2 = [questiondown.case exclamdown.case hyphen.case endash.case emdash.case parenleft.case parenright.case slash.case backslash.case bracketleft.case bracketright.case braceleft.case braceright.case bullet.case guilsinglleft.case guilsinglright.case guillemotleft.case guillemotright.case at.case cedillacomb.cap ogonekcomb.cap acutecomb.cap hungarumlautcomb.cap gravecomb.cap circumflexcomb.cap tildecomb.cap caroncomb.cap macroncomb.cap macroncomb.narrow.cap dieresiscomb.cap dieresiscomb.narrow.cap brevecomb.cap dotaccentcomb.cap hookabovecomb.cap dotbelowcomb.cap commaaccentcomb.cap ringcomb.cap circumflexcomb_acutecomb.cap circumflexcomb_gravecomb.cap circumflexcomb_hookabovecomb.cap circumflexcomb_tildecomb.cap brevecomb_acutecomb.cap brevecomb_gravecomb.cap brevecomb_hookabovecomb.cap brevecomb_tildecomb.cap dotaccentcomb_gravecomb.cap dotaccentcomb_acutecomb.cap dotaccentcomb_tildecomb.cap macroncomb_acutecomb.cap macroncomb_tildecomb.cap brevecomb.cyrl.cap acutecomb.grek.cap];
 @ccmp = [Ccedilla Hcedilla Scedilla Tcedilla Aogonek Eogonek Iogonek Uogonek ccedilla hcedilla scedilla tcedilla aogonek eogonek iogonek uogonek Aacute Cacute Eacute Gacute Iacute Lacute Macute Nacute Oacute Racute Sacute Uacute Wacute Yacute Zacute AEacute Oslashacute Ohungarumlaut Uhungarumlaut aacute cacute eacute gacute iacute lacute macute nacute oacute racute sacute uacute wacute yacute zacute aeacute oslashacute ohungarumlaut uhungarumlaut Agrave Egrave Igrave Ograve Ugrave Wgrave Ygrave agrave egrave igrave ograve ugrave wgrave ygrave Acircumflex Ccircumflex Ecircumflex Gcircumflex Hcircumflex Icircumflex Jcircumflex Ocircumflex Scircumflex Ucircumflex Wcircumflex Ycircumflex Atilde Etilde Itilde Ntilde Otilde Utilde Ytilde acircumflex ccircumflex ecircumflex gcircumflex hcircumflex icircumflex jcircumflex ocircumflex scircumflex ucircumflex wcircumflex ycircumflex atilde etilde itilde ntilde otilde utilde ytilde Acaron Ccaron Dcaron Ecaron Gcaron Icaron Lcaron Ncaron Ocaron Rcaron Scaron Tcaron Ucaron Zcaron Amacron Emacron Imacron Omacron Umacron acaron ccaron dcaron ecaron gcaron icaron lcaron ncaron ocaron rcaron scaron tcaron ucaron zcaron amacron emacron imacron omacron umacron Adieresis Edieresis Idieresis Odieresis Udieresis Wdieresis Ydieresis Abreve Ebreve Gbreve Ibreve Obreve Ubreve adieresis edieresis idieresis odieresis udieresis wdieresis ydieresis abreve ebreve gbreve ibreve obreve ubreve Edotaccent Idotaccent Cdotaccent Gdotaccent Ndot Zdotaccent Ahoi Ehoi Ihoi Ohoi Uhoi Yhoi edotaccent cdotaccent gdotaccent ndot zdotaccent ahoi ehoi ihoi ohoi uhoi yhoi Adotbelow Edotbelow Idotbelow Odotbelow Sdotbelow Udotbelow Ydotbelow Dcedilla Gcommaaccent Kcommaaccent Lcommaaccent Ncommaaccent Rcommaaccent Scommaaccent Tcommaaccent adotbelow edotbelow idotbelow odotbelow sdotbelow udotbelow ydotbelow dcedilla gcommaaccent kcommaaccent lcommaaccent ncommaaccent rcommaaccent scommaaccent tcommaaccent Aring Uring angstrom Aringacute aring uring aringacute Ohorn Uhorn Ohornacute Uhornacute Ohorngrave Uhorngrave Ohornhoi Uhornhoi Ohorntilde Uhorntilde Ohorndotbelow Uhorndotbelow ohorn uhorn ohornacute uhornacute ohorngrave uhorngrave ohornhoi uhornhoi ohorntilde uhorntilde ohorndotbelow uhorndotbelow Acircumflexacute Ecircumflexacute Ocircumflexacute Acircumflexgrave Ecircumflexgrave Ocircumflexgrave Acircumflexhoi Ecircumflexhoi Ocircumflexhoi Acircumflextilde Ecircumflextilde Ocircumflextilde Acircumflexdotbelow Ecircumflexdotbelow Ocircumflexdotbelow acircumflexacute ecircumflexacute ocircumflexacute acircumflexgrave ecircumflexgrave ocircumflexgrave acircumflexhoi ecircumflexhoi ocircumflexhoi acircumflextilde ecircumflextilde ocircumflextilde acircumflexdotbelow ecircumflexdotbelow ocircumflexdotbelow Abreveacute Abrevegrave Abrevehoi Abrevetilde Abrevedotbelow abreveacute abrevegrave abrevehoi abrevetilde abrevedotbelow Adieresiscyr Iocyr Schwadieresiscyr Idieresiscyr Yukrcyr Zhedieresiscyr Zedieresiscyr Odieresiscyr Obardieresiscyr Ereverseddieresiscyr Udieresiscyr Chedieresiscyr Ylongdieresiscyr Gjecyr Kjecyr Iegravecyr Igravecyr adieresiscyr iocyr schwadieresiscyr idieresiscyr yukrcyr zhedieresiscyr zedieresiscyr odieresiscyr obardieresiscyr ereverseddieresiscyr udieresiscyr chedieresiscyr ylongdieresiscyr gjecyr kjecyr iegravecyr igravecyr Abrevecyr Iebrevecyr Zhebrevecyr Ishortcyr Ushortcyr Imacroncyr Umacroncyr Uacutedblcyr abrevecyr iebrevecyr zhebrevecyr ishortcyr ushortcyr imacroncyr umacroncyr uacutedblcyr Iotadieresis Upsilondieresis iotadieresis upsilondieresis dieresistonos Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos alphatonos epsilontonos etatonos iotatonos omicrontonos upsilontonos omegatonos iotadieresistonos upsilondieresistonos];
 @ccmp10 = [A C E G I N O U Y Z Ohorn Uhorn];
 @ccmp11 = [dotlessi a c e g m n o r s u w y z upsilon aogonek eogonek uogonek acyr iecyr zhecyr zecyr icyr ocyr ucyr checyr ylongcyr ereversedcyr dotlessj a.smcp c.smcp d.smcp e.smcp g.smcp h.smcp i.smcp j.smcp l.smcp m.smcp n.smcp o.smcp r.smcp s.smcp t.smcp u.smcp w.smcp y.smcp z.smcp aogonek.smcp eogonek.smcp iogonek.smcp uogonek.smcp schwacyr obarcyr ohorn uhorn eopen oopen iogonek.dotless ishortsharptailcyr.comp];
@@ -1523,10 +1555,13 @@ code = "#> classes
 @smcp = [question exclam questiondown exclamdown zero.inferior fraction percent perthousand dollar cent sterling yen dong tenge indianrupee tugrik peso guarani hryvnia cedi turkishlira newsheqel colonmonetary kip euroarchaic cruzeiro rupee florin.crcy parenleft parenright slash backslash bracketleft bracketright braceleft braceright ampersand asterisk a b c d e f g h i j k l m n o p q r s t u v w x y z quoteleft quoteright quotedblleft quotedblright quotereversed quotedblreversed dotlessi ij ldot thorn ae oe germandbls eng eth dcroat hbar istroke obarred ubar tbar lslash oslash ccedilla hcedilla scedilla tcedilla aogonek eogonek iogonek uogonek acutecomb hungarumlautcomb aacute cacute eacute gacute iacute lacute macute nacute oacute racute sacute uacute wacute yacute zacute aeacute oslashacute ohungarumlaut uhungarumlaut gravecomb agrave egrave igrave ograve ugrave wgrave ygrave acircumflex ccircumflex ecircumflex gcircumflex hcircumflex icircumflex jcircumflex ocircumflex scircumflex ucircumflex wcircumflex ycircumflex atilde etilde itilde ntilde otilde utilde ytilde acaron ccaron dcaron ecaron gcaron icaron lcaron ncaron ocaron rcaron scaron tcaron ucaron zcaron amacron emacron imacron omacron umacron adieresis edieresis idieresis odieresis udieresis wdieresis ydieresis abreve ebreve gbreve ibreve obreve ubreve edotaccent cdotaccent gdotaccent ndot zdotaccent adotbelow edotbelow idotbelow odotbelow sdotbelow udotbelow ydotbelow dcedilla gcommaaccent kcommaaccent lcommaaccent ncommaaccent rcommaaccent scommaaccent tcommaaccent aring uring aringacute at zero one two three four five six seven eight nine zero.alt one.alt two.alt three.alt four.alt five.alt six.alt seven.alt eight.alt nine.alt];
 @smcp2 = [question.smcp exclam.smcp questiondown.smcp exclamdown.smcp zero.inferior.smcp fraction.smcp percent.smcp perthousand.smcp dollar.smcp cent.smcp sterling.smcp yen.smcp dong.smcp tenge.smcp indianrupee.smcp tugrik.smcp peso.smcp guarani.smcp hryvnia.smcp cedi.smcp turkishlira.smcp newsheqel.smcp colonmonetary.smcp kip.smcp euroarchaic.smcp cruzeiro.smcp rupee.smcp florin.crcy.smcp parenleft.smcp parenright.smcp slash.smcp backslash.smcp bracketleft.smcp bracketright.smcp braceleft.smcp braceright.smcp ampersand.smcp asterisk.smcp a.smcp b.smcp c.smcp d.smcp e.smcp f.smcp g.smcp h.smcp i.smcp j.smcp k.smcp l.smcp m.smcp n.smcp o.smcp p.smcp q.smcp r.smcp s.smcp t.smcp u.smcp v.smcp w.smcp x.smcp y.smcp z.smcp quoteleft.smcp quoteright.smcp quotedblleft.smcp quotedblright.smcp quotereversed.smcp quotedblreversed.smcp dotlessi.smcp ij.smcp ldot.smcp thorn.smcp ae.smcp oe.smcp germandbls.smcp eng.smcp eth.smcp dcroat.smcp hbar.smcp istroke.smcp obarred.smcp ubar.smcp tbar.smcp lslash.smcp oslash.smcp ccedilla.smcp hcedilla.smcp scedilla.smcp tcedilla.smcp aogonek.smcp eogonek.smcp iogonek.smcp uogonek.smcp acutecomb.smcp hungarumlautcomb.smcp aacute.smcp cacute.smcp eacute.smcp gacute.smcp iacute.smcp lacute.smcp macute.smcp nacute.smcp oacute.smcp racute.smcp sacute.smcp uacute.smcp wacute.smcp yacute.smcp zacute.smcp aeacute.smcp oslashacute.smcp ohungarumlaut.smcp uhungarumlaut.smcp gravecomb.smcp agrave.smcp egrave.smcp igrave.smcp ograve.smcp ugrave.smcp wgrave.smcp ygrave.smcp acircumflex.smcp ccircumflex.smcp ecircumflex.smcp gcircumflex.smcp hcircumflex.smcp icircumflex.smcp jcircumflex.smcp ocircumflex.smcp scircumflex.smcp ucircumflex.smcp wcircumflex.smcp ycircumflex.smcp atilde.smcp etilde.smcp itilde.smcp ntilde.smcp otilde.smcp utilde.smcp ytilde.smcp acaron.smcp ccaron.smcp dcaron.smcp ecaron.smcp gcaron.smcp icaron.smcp lcaron.smcp ncaron.smcp ocaron.smcp rcaron.smcp scaron.smcp tcaron.smcp ucaron.smcp zcaron.smcp amacron.smcp emacron.smcp imacron.smcp omacron.smcp umacron.smcp adieresis.smcp edieresis.smcp idieresis.smcp odieresis.smcp udieresis.smcp wdieresis.smcp ydieresis.smcp abreve.smcp ebreve.smcp gbreve.smcp ibreve.smcp obreve.smcp ubreve.smcp edotaccent.smcp cdotaccent.smcp gdotaccent.smcp ndot.smcp zdotaccent.smcp adotbelow.smcp edotbelow.smcp idotbelow.smcp odotbelow.smcp sdotbelow.smcp udotbelow.smcp ydotbelow.smcp dcedilla.smcp gcommaaccent.smcp kcommaaccent.smcp lcommaaccent.smcp ncommaaccent.smcp rcommaaccent.smcp scommaaccent.smcp tcommaaccent.smcp aring.smcp uring.smcp aringacute.smcp at.smcp zero.tscf one.tscf two.tscf three.tscf four.tscf five.tscf six.tscf seven.tscf eight.tscf nine.tscf zero.pscf one.pscf two.pscf three.pscf four.pscf five.pscf six.pscf seven.pscf eight.pscf nine.pscf];
 @calt = [zero one two three four five six seven eight nine zero.alt one.alt two.alt three.alt four.alt five.alt six.alt seven.alt eight.alt nine.alt];
-@loclBGR2 = [Elcyr.loclBGR Decyr.loclBGR kacyr.loclBGR zhecyr.loclBGR pecyr.loclBGR tecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR igravecyr.loclBGR shacyr.loclBGR shchacyr.loclBGR tsecyr.loclBGR decyr.loclBGR vecyr.loclBGR gecyr.loclBGR softcyr.loclBGR hardcyr.loclBGR elcyr.loclBGR zecyr.loclBGR yucyr.loclBGR];
 @loclBGR = [Elcyr Decyr kacyr zhecyr pecyr tecyr icyr ishortcyr igravecyr shacyr shchacyr tsecyr decyr vecyr gecyr softcyr hardcyr elcyr zecyr yucyr];
+@loclBGR2 = [Elcyr.loclBGR Decyr.loclBGR kacyr.loclBGR zhecyr.loclBGR pecyr.loclBGR tecyr.loclBGR icyr.loclBGR ishortcyr.loclBGR igravecyr.loclBGR shacyr.loclBGR shchacyr.loclBGR tsecyr.loclBGR decyr.loclBGR vecyr.loclBGR gecyr.loclBGR softcyr.loclBGR hardcyr.loclBGR elcyr.loclBGR zecyr.loclBGR yucyr.loclBGR];
+@liga3 = [Acyr Iecyr Icyr Ocyr Ucyr Ylongcyr Yucyr Yacyr Iocyr Iukrcyr Eukrcyr Semisoftcyr acyr iecyr icyr ocyr ucyr ylongcyr yucyr yacyr iocyr iukrcyr eukrcyr semisoftcyr];
+@liga31 = [grave acute gravecomb acutecomb gravecomb.cap acutecomb.cap];
 #/< otclasses
 #< classes
+
 
 ###
 # OpenType Layout feature definitions
@@ -1675,7 +1710,37 @@ lookup dnom_subs {
   sub @dnom_numr_pnum_subs_sups_tnum by @dnom_liga_subs;
 } dnom_subs;
 
+ lookup liga_3 {
+  # GSUB lookup 43, type 11 (Single)
+    sub @liga3 @liga31' by [acutecomb acutecomb acutecomb acutecomb acutecomb acutecomb];
+  } liga_3;
 
+ lookup liga_4 {
+sub Acyr acutecomb by Acyr_acutecomb; 
+sub Iecyr acutecomb by Iecyr_acutecomb; 
+sub Icyr acutecomb by Icyr_acutecomb; 
+sub Ocyr acutecomb by Ocyr_acutecomb; 
+sub Ucyr acutecomb by Ucyr_acutecomb; 
+sub Ylongcyr acutecomb by Ylongcyr_acutecomb; 
+sub Yucyr acutecomb by Yucyr_acutecomb; 
+sub Yacyr acutecomb by Yacyr_acutecomb; 
+sub Iocyr acutecomb by Iocyr_acutecomb; 
+sub Iukrcyr acutecomb by Iukrcyr_acutecomb; 
+sub Eukrcyr acutecomb by Eukrcyr_acutecomb; 
+sub Semisoftcyr acutecomb by Semisoftcyr_acutecomb; 
+sub acyr acutecomb by acyr_acutecomb; 
+sub iecyr acutecomb by iecyr_acutecomb; 
+sub icyr acutecomb by icyr_acutecomb; 
+sub ocyr acutecomb by ocyr_acutecomb; 
+sub ucyr acutecomb by ucyr_acutecomb; 
+sub ylongcyr acutecomb by ylongcyr_acutecomb; 
+sub yucyr acutecomb by yucyr_acutecomb; 
+sub yacyr acutecomb by yacyr_acutecomb; 
+sub iocyr acutecomb by iocyr_acutecomb; 
+sub iukrcyr acutecomb by iukrcyr_acutecomb; 
+sub eukrcyr acutecomb by eukrcyr_acutecomb; 
+sub semisoftcyr acutecomb by semisoftcyr_acutecomb; 
+ } liga_4;
 #
 # Feature definitions
 #
@@ -1983,6 +2048,9 @@ code = "# GSUB feature: Standard Ligatures
     sub @frac_liga_numr_sups by @dnom_liga_subs;
   } liga_2;
 
+  lookup liga_3;
+
+  lookup liga_4;
 
   script latn; # Latin
     language AZE  exclude_dflt; # Azerbaijani
@@ -82371,7 +82439,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "7900522D-7321-4A46-8482-E4D00C1490A1";
+id = "26E6130D-B3C9-45B2-A3C5-02C986E91ADD";
 metricValues = (
 {
 pos = 930;
@@ -82491,7 +82559,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "F46EB350-572D-40B6-8F96-70923BCB3D86";
+id = "D4BE8965-D6E9-455E-8A03-697C08C086AB";
 metricValues = (
 {
 pos = 930;
@@ -82609,7 +82677,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "022C621B-D9C5-4075-856F-99776A9BB9BC";
+id = "836ED3A4-1AF9-4FCB-B992-725D22F47718";
 metricValues = (
 {
 pos = 930;
@@ -82729,7 +82797,7 @@ guides = (
 position = "{0, 250}";
 }
 );
-id = "BC1C0262-B179-41F2-9022-DD18C3300059";
+id = "D222E232-D60B-4B2D-8951-17F11CA2060F";
 metricValues = (
 {
 pos = 930;
@@ -82825,13 +82893,13 @@ weightClass = Black;
 }
 );
 kerningLTR = {
-"022C621B-D9C5-4075-856F-99776A9BB9BC" = {
+"26E6130D-B3C9-45B2-A3C5-02C986E91ADD" = {
 };
-"7900522D-7321-4A46-8482-E4D00C1490A1" = {
+"836ED3A4-1AF9-4FCB-B992-725D22F47718" = {
 };
-"BC1C0262-B179-41F2-9022-DD18C3300059" = {
+"D222E232-D60B-4B2D-8951-17F11CA2060F" = {
 };
-"F46EB350-572D-40B6-8F96-70923BCB3D86" = {
+"D4BE8965-D6E9-455E-8A03-697C08C086AB" = {
 };
 };
 metrics = (
@@ -82891,7 +82959,7 @@ value = "Dalton Maag Ltd, Cristiano Sobral";
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
-"7900522D-7321-4A46-8482-E4D00C1490A1" = {
+"26E6130D-B3C9-45B2-A3C5-02C986E91ADD" = {
 HV = 38;
 HH = 35;
 OV = 40;
@@ -82901,7 +82969,7 @@ oH = 34;
 nV = 33;
 tH = 33;
 };
-"F46EB350-572D-40B6-8F96-70923BCB3D86" = {
+"D4BE8965-D6E9-455E-8A03-697C08C086AB" = {
 HV = 94;
 HH = 82;
 OV = 96;
@@ -82911,7 +82979,7 @@ oH = 77;
 nV = 89;
 tH = 73;
 };
-"022C621B-D9C5-4075-856F-99776A9BB9BC" = {
+"836ED3A4-1AF9-4FCB-B992-725D22F47718" = {
 HV = 146;
 HH = 114;
 OV = 148;
@@ -82921,7 +82989,7 @@ oH = 111;
 nV = 141;
 tH = 106;
 };
-"BC1C0262-B179-41F2-9022-DD18C3300059" = {
+"D222E232-D60B-4B2D-8951-17F11CA2060F" = {
 HV = 146;
 HH = 114;
 OV = 148;
@@ -82934,5 +83002,5 @@ tH = 106;
 };
 };
 versionMajor = 2;
-versionMinor = 1;
+versionMinor = 2;
 }

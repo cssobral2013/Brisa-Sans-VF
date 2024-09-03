@@ -3,13 +3,7 @@ glyphname = zecyr.loclBGR;
 widthMetricsKey = "=393";
 layers = (
 {
-anchors = (
-{
-name = top;
-position = "{191, 477}";
-}
-);
-layerId = "BC1C0262-B179-41F2-9022-DD18C3300059";
+layerId = "D222E232-D60B-4B2D-8951-17F11CA2060F";
 widthMetricsKey = "=467";
 shapes = (
 {
@@ -62,13 +56,7 @@ nodes = (
 width = 467;
 },
 {
-anchors = (
-{
-name = top;
-position = "{182, 477}";
-}
-);
-layerId = "022C621B-D9C5-4075-856F-99776A9BB9BC";
+layerId = "836ED3A4-1AF9-4FCB-B992-725D22F47718";
 widthMetricsKey = "=448";
 shapes = (
 {
@@ -121,13 +109,7 @@ nodes = (
 width = 448;
 },
 {
-anchors = (
-{
-name = top;
-position = "{168, 477}";
-}
-);
-layerId = "F46EB350-572D-40B6-8F96-70923BCB3D86";
+layerId = "D4BE8965-D6E9-455E-8A03-697C08C086AB";
 widthMetricsKey = "=419";
 shapes = (
 {
@@ -180,13 +162,7 @@ nodes = (
 width = 419;
 },
 {
-anchors = (
-{
-name = top;
-position = "{158, 477}";
-}
-);
-layerId = "7900522D-7321-4A46-8482-E4D00C1490A1";
+layerId = "26E6130D-B3C9-45B2-A3C5-02C986E91ADD";
 shapes = (
 {
 closed = 1;

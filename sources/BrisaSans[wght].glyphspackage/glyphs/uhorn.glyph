@@ -2,17 +2,7 @@
 glyphname = uhorn;
 layers = (
 {
-anchors = (
-{
-name = hook;
-position = "{293, 457}";
-},
-{
-name = bottom;
-position = "{302, 0}";
-}
-);
-layerId = "BC1C0262-B179-41F2-9022-DD18C3300059";
+layerId = "D222E232-D60B-4B2D-8951-17F11CA2060F";
 shapes = (
 {
 closed = 1;
@@ -61,29 +51,7 @@ nodes = (
 width = 659;
 },
 {
-anchors = (
-{
-name = Anchor_5;
-position = "{284, 477}";
-},
-{
-name = Anchor_7;
-position = "{336, 517}";
-},
-{
-name = hook;
-position = "{284, 457}";
-},
-{
-name = Anchor_10;
-position = "{242, 497}";
-},
-{
-name = bottom;
-position = "{289, 0}";
-}
-);
-layerId = "022C621B-D9C5-4075-856F-99776A9BB9BC";
+layerId = "836ED3A4-1AF9-4FCB-B992-725D22F47718";
 shapes = (
 {
 closed = 1;
@@ -132,29 +100,7 @@ nodes = (
 width = 634;
 },
 {
-anchors = (
-{
-name = top;
-position = "{270, 477}";
-},
-{
-name = Anchor_5;
-position = "{322, 517}";
-},
-{
-name = hook;
-position = "{270, 457}";
-},
-{
-name = Anchor_8;
-position = "{218, 497}";
-},
-{
-name = bottom;
-position = "{270, 0}";
-}
-);
-layerId = "F46EB350-572D-40B6-8F96-70923BCB3D86";
+layerId = "D4BE8965-D6E9-455E-8A03-697C08C086AB";
 shapes = (
 {
 closed = 1;
@@ -203,29 +149,7 @@ nodes = (
 width = 596;
 },
 {
-anchors = (
-{
-name = top;
-position = "{262, 477}";
-},
-{
-name = Anchor_6;
-position = "{314, 517}";
-},
-{
-name = hook;
-position = "{262, 457}";
-},
-{
-name = Anchor_9;
-position = "{210, 497}";
-},
-{
-name = bottom;
-position = "{262, 0}";
-}
-);
-layerId = "7900522D-7321-4A46-8482-E4D00C1490A1";
+layerId = "26E6130D-B3C9-45B2-A3C5-02C986E91ADD";
 shapes = (
 {
 closed = 1;

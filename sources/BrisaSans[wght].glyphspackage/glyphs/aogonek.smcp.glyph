@@ -2,13 +2,7 @@
 glyphname = aogonek.smcp;
 layers = (
 {
-anchors = (
-{
-name = top;
-position = "{295, 497}";
-}
-);
-layerId = "BC1C0262-B179-41F2-9022-DD18C3300059";
+layerId = "D222E232-D60B-4B2D-8951-17F11CA2060F";
 shapes = (
 {
 closed = 1;
@@ -54,17 +48,7 @@ nodes = (
 width = 591;
 },
 {
-anchors = (
-{
-name = top;
-position = "{283, 497}";
-},
-{
-name = Anchor_7;
-position = "{281, 537}";
-}
-);
-layerId = "022C621B-D9C5-4075-856F-99776A9BB9BC";
+layerId = "836ED3A4-1AF9-4FCB-B992-725D22F47718";
 shapes = (
 {
 closed = 1;
@@ -110,17 +94,7 @@ nodes = (
 width = 567;
 },
 {
-anchors = (
-{
-name = top;
-position = "{265, 497}";
-},
-{
-name = Anchor_5;
-position = "{258, 537}";
-}
-);
-layerId = "F46EB350-572D-40B6-8F96-70923BCB3D86";
+layerId = "D4BE8965-D6E9-455E-8A03-697C08C086AB";
 shapes = (
 {
 closed = 1;
@@ -166,17 +140,7 @@ nodes = (
 width = 531;
 },
 {
-anchors = (
-{
-name = top;
-position = "{249, 497}";
-},
-{
-name = Anchor_6;
-position = "{249, 537}";
-}
-);
-layerId = "7900522D-7321-4A46-8482-E4D00C1490A1";
+layerId = "26E6130D-B3C9-45B2-A3C5-02C986E91ADD";
 shapes = (
 {
 closed = 1;
