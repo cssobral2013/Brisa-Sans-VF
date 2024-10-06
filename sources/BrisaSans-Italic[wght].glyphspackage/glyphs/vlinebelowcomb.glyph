@@ -2,88 +2,69 @@
 glyphname = vlinebelowcomb;
 layers = (
 {
-anchors = (
+layerId = "3AC68A5C-915A-4DAB-90D3-514E1290D8F5";
+name = "#instance";
+width = 0;
+},
 {
-name = _bottom;
-position = "{-55, 0}";
-}
-);
-layerId = "B4A5DE42-3F2E-4279-A036-A3B49F620938";
+layerId = "5A493680-E9A0-4F8D-8CB4-D0B9001A6F74";
 shapes = (
 {
 closed = 1;
 nodes = (
-(-14,-113,l),
+(-15,-113,l),
 (-142,-113,l),
-(-104,73,l),
-(24,73,l)
+(-105,73,l),
+(22,73,l)
 );
 }
 );
-width = 2;
+width = 0;
 },
 {
-anchors = (
-{
-name = _bottom;
-position = "{-55, 0}";
-}
-);
-layerId = "7A2D1CAB-A283-4D96-9C16-88BF86DF5DBE";
+layerId = "06FCF6AF-AD24-43D8-9E05-32EA8B277EF6";
 shapes = (
 {
 closed = 1;
 nodes = (
-(-23,-113,l),
+(-24,-113,l),
 (-133,-113,l),
-(-95,73,l),
-(15,73,l)
+(-96,73,l),
+(13,73,l)
 );
 }
 );
-width = 2;
+width = 0;
 },
 {
-anchors = (
-{
-name = _bottom;
-position = "{-55, 0}";
-}
-);
-layerId = "EAA4FF5F-B48D-48C5-8560-F51BB314283C";
+layerId = "55D47B1B-2A7A-4A7C-934D-E2DC43635214";
 shapes = (
 {
 closed = 1;
 nodes = (
-(-37,-113,l),
+(-38,-113,l),
 (-119,-113,l),
-(-81,73,l),
-(1,73,l)
+(-82,73,l),
+(-1,73,l)
 );
 }
 );
-width = 2;
+width = 0;
 },
 {
-anchors = (
-{
-name = _bottom;
-position = "{-55, 0}";
-}
-);
-layerId = "46A11582-2913-4625-BD09-5353CD2303E1";
+layerId = "FCF11552-E371-44B4-9CC7-EF7308C46468";
 shapes = (
 {
 closed = 1;
 nodes = (
-(-60,-113,l),
+(-61,-113,l),
 (-96,-113,l),
-(-58,73,l),
-(-22,73,l)
+(-59,73,l),
+(-24,73,l)
 );
 }
 );
-width = 2;
+width = 0;
 }
 );
 unicode = 809;

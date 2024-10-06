@@ -2,64 +2,69 @@
 glyphname = palochkacyr;
 layers = (
 {
-layerId = "B4A5DE42-3F2E-4279-A036-A3B49F620938";
-shapes = (
-{
-closed = 1;
-nodes = (
-(173,0,l),
-(-2,0,l),
-(147,747,l),
-(322,747,l)
-);
-}
-);
-width = 282;
+layerId = "3AC68A5C-915A-4DAB-90D3-514E1290D8F5";
+name = "#instance";
+width = 278;
 },
 {
-layerId = "7A2D1CAB-A283-4D96-9C16-88BF86DF5DBE";
+layerId = "5A493680-E9A0-4F8D-8CB4-D0B9001A6F74";
 shapes = (
 {
 closed = 1;
 nodes = (
-(150,0,l),
-(9,0,l),
-(158,747,l),
-(299,747,l)
+(170,0,l),
+(-4,0,l),
+(146,747,l),
+(319,747,l)
 );
 }
 );
-width = 270;
+width = 278;
 },
 {
-layerId = "EAA4FF5F-B48D-48C5-8560-F51BB314283C";
+layerId = "06FCF6AF-AD24-43D8-9E05-32EA8B277EF6";
 shapes = (
 {
 closed = 1;
 nodes = (
-(115,0,l),
-(26,0,l),
-(175,747,l),
-(264,747,l)
+(147,0,l),
+(7,0,l),
+(157,747,l),
+(296,747,l)
 );
 }
 );
-width = 252;
+width = 266;
 },
 {
-layerId = "46A11582-2913-4625-BD09-5353CD2303E1";
+layerId = "55D47B1B-2A7A-4A7C-934D-E2DC43635214";
 shapes = (
 {
 closed = 1;
 nodes = (
-(76,0,l),
-(38,0,l),
-(187,747,l),
-(225,747,l)
+(112,0,l),
+(24,0,l),
+(173,747,l),
+(262,747,l)
 );
 }
 );
-width = 225;
+width = 248;
+},
+{
+layerId = "FCF11552-E371-44B4-9CC7-EF7308C46468";
+shapes = (
+{
+closed = 1;
+nodes = (
+(74,0,l),
+(36,0,l),
+(185,747,l),
+(223,747,l)
+);
+}
+);
+width = 221;
 }
 );
 unicode = 1231;

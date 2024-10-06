@@ -2,7 +2,7 @@
 glyphname = Upsilon;
 layers = (
 {
-layerId = "D43100D0-4BF9-44C0-ADDC-79172AF58462";
+layerId = "F976A6FE-4F5D-4CD4-867C-EF90278DFFCC";
 shapes = (
 {
 closed = 1;
@@ -45,7 +45,7 @@ nodes = (
 width = 765;
 },
 {
-layerId = "B5AFC12C-DAB2-4B68-A31B-D6136A1B144F";
+layerId = "ECD81CFE-BAA5-49B6-8B8C-C1187BD9FB4D";
 shapes = (
 {
 closed = 1;
@@ -88,7 +88,7 @@ nodes = (
 width = 764;
 },
 {
-layerId = "5166C0C3-C3D2-4F7F-8540-ACBC385E7743";
+layerId = "05C01135-6C20-4612-9616-E32239DF772F";
 shapes = (
 {
 closed = 1;
@@ -131,7 +131,7 @@ nodes = (
 width = 762;
 },
 {
-layerId = "64AEFF5A-033C-4F54-96AE-A64261A50D57";
+layerId = "E82A1E35-09AC-49BD-B418-47901BDD1DB1";
 shapes = (
 {
 closed = 1;

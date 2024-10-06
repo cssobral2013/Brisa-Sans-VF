@@ -1,0 +1,27 @@
+{
+glyphname = uni0008;
+layers = (
+{
+layerId = "3AC68A5C-915A-4DAB-90D3-514E1290D8F5";
+name = "#instance";
+width = 0;
+},
+{
+layerId = "5A493680-E9A0-4F8D-8CB4-D0B9001A6F74";
+width = 0;
+},
+{
+layerId = "06FCF6AF-AD24-43D8-9E05-32EA8B277EF6";
+width = 0;
+},
+{
+layerId = "55D47B1B-2A7A-4A7C-934D-E2DC43635214";
+width = 0;
+},
+{
+layerId = "FCF11552-E371-44B4-9CC7-EF7308C46468";
+width = 0;
+}
+);
+unicode = (8,29);
+}
